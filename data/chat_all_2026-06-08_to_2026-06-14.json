@@ -1,0 +1,3753 @@
+{
+  "meta": {
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-14",
+    "accounts": [
+      "2500001422788",
+      "2217561219346",
+      "2500000371894",
+      "2500000366422",
+      "2214642227877",
+      "2217450497451",
+      "2500001445158",
+      "2500001439326",
+      "2500001445397"
+    ],
+    "totalConversations": 58,
+    "totalMessages": 453
+  },
+  "conversations": [
+    {
+      "conversationId": "133710018992-2500001439326#11011",
+      "contactName": "Rebecca Augustine",
+      "contactAliId": 133710018992,
+      "contactLevel": "L4",
+      "country": "AU",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1022046065&activeAccountIdEncrypt=MC1IDX1Rrpat4XGhDUOQ-U1aLD8foKmqTGstGI6RRRn3TVRlo497IbkaHN3MOU5ohC9eUyf",
+      "lastActiveTime": "2026-06-12 14:32:55",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 14:32:55",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781245975562
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 14:31:26",
+          "text": "Hi Rebecca, what aspects of the golf cart do you value the most? 1. Range 2. Custom configuration 3. Delivery time/:raisehand."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 14:32:28",
+          "text": "I sent you a quote last time but you didn't respond. Was it because the price didn't meet your budget, or were you considering the golf cart's range or quality issues?/:raisehand."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 14:32:55",
+          "text": "Looking forward to your reply, my friend"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217942420940-2500001439326#11011",
+      "contactName": "Assistant Eva",
+      "contactAliId": 2217942420940,
+      "contactLevel": null,
+      "country": "CN",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=278505947&activeAccountIdEncrypt=MC1IDX1DVtU8Eke2vw4DCW3IzjgdwDAlPLXU0Xvw7pIP6gol4pOl-dKcrs74fQDaG-yvzoG",
+      "lastActiveTime": "2026-06-14 13:58:45",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-14 13:58:45",
+        "senderAccountType": null,
+        "senderAliId": 2217942420940,
+        "timestamp": 1781416725995
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-14 13:58:45",
+          "text": "{\"cardType\":2086,\"params\":{\"toUid\":\"2500001439326\",\"activeAccountIdEncrypt\":\"MC1IDX1rT7vR4d3ftjRA9F_0kvYY49AAoR1k5kRNTyBzEtEp4kwOmhWEpgWCMLd9ftiDs2R\",\"sign\":\"F831A39A30075BDEF35F681FF29EDA8C62AC66B3\",\"buyerName\":\"TAEGYU HAN\",\"scene\":\"seriousBuyerOnlineRemind\",\"activeAccountId\":\"722811075\",\"chatToken\":\"YVVGWk5saDVkakpCUW5oTk1uRnRZbWREUTNscWVreHNZMXBvY2tVMVZtWnRSMGxNVEdONVIyUlRNVmwzWlRGb2JqUlJlWEU0U0N0UGNrZG1SRFpwY2s0NWFsaEliVUl6VDNKa1ZqRm1lWFZwTDJ0UWJEQlNhVnBqYmpWeE9UQmhXVGhWWkdoaVJEVnVRek5tWmpscVpITTNkWFEwTlhSbmFrWlZORXhxVUhGd1pUYzJaVTVGYTA1NVkxQk5XVWx4UkVGUE5sbFZPV2xRT0hGVk4xbEVZVll6SzBOUlZrUXZjV3MyZHpKR016Uk5Xa2hxY1RSdVJXZG1NVTk2VWpKUmEzaHdaMjFCUmxSVFluUklXRTFVT0dwd2QwYzRVVDA5JnZlcnNpb249Mi4wLjA=\",\"fromUid\":\"2217942420940\",\"processId\":\"7BFRQ4N1Q0AP611\",\"ctime\":\"1781416725924\",\"loginIdEncrypt\":\"8pctgRBMALPvmpNoV lFUDbdOHFPJv206wdkfYSa s4=\",\"targetAliId\":\"133221908932\"}}"
+        }
+      ]
+    },
+    {
+      "conversationId": "133656748258-2500001439326#11011",
+      "contactName": "Ed Marzan",
+      "contactAliId": 133656748258,
+      "contactLevel": "L3",
+      "country": "PH",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=994175418&activeAccountIdEncrypt=MC1IDX1NEm3QUm3T0WSnL4LCNnz-LrLNYxJCLB1nyMUBMNnCoKp0ZHQkgtbRSBcabF3XTJQ",
+      "lastActiveTime": "2026-06-12 14:30:00",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 14:30:00",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781245800914
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:15:17",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":2305422,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651727131&parentId=4447053504&secOperateAliId=MC1IDX1KUFROvA4ITJrpMNwL8GALb1ucSA4iJSmnFW6mV7cjvhT1LjeqXZTQE_zRqcD_t7d&fileAction=imagePreview&scene=1\",\"md5\":\"821ea2bd3e0b5402a9d797f228d5c014\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:15:21",
+          "text": "Model E"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:15:28",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1840806,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4649786836&parentId=4447053504&secOperateAliId=MC1IDX1FB80IlWYwmnaf1zygZyHXfWAH2DeZ42Nh6P5zOJmy1--uVFTP2a-C21YaZuRVial&fileAction=imagePreview&scene=1\",\"md5\":\"1acd2df41cdc303176a14d5e476b8ee7\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:15:31",
+          "text": "Model H"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:15:41",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1965531,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4649786909&parentId=4447053504&secOperateAliId=MC1IDX1Xj3aN2GvxZdknx-dKppPVdXzeenKqjGXAVELmMCFdPZpV20HvYxmW95Ud_7LUPYE&fileAction=imagePreview&scene=1\",\"md5\":\"6ce76509d958e7ff062121e1d0fe1a60\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:15:47",
+          "text": "Model I"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:16:00",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1635312,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648221313&parentId=4447053504&secOperateAliId=MC1IDX1v0T_B-rGCXmzk87ycJbXi-RqpqS_0ViM21i-MFJVTrV1EY4asmoqgUiAVJ4I4eDn&fileAction=imagePreview&scene=1\",\"md5\":\"60258a99b1cde4a60a3dfc6df9530b28\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:16:06",
+          "text": "Model J"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:19:08",
+          "text": "{\"height\":1491,\"isOriginal\":0,\"width\":1055,\"size\":1696153,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651743957&parentId=4447053504&secOperateAliId=MC1IDX1ISvTR8y5cLkOMu9huzgDpGptzFsYIlQqslQH6CzMjkXAYiiPvH4seutU4iPaOtMl&fileAction=imagePreview&scene=1\",\"md5\":\"99f88faac3f4cdeb41ee4a25f265e1ff\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:19:29",
+          "text": "Hey, this is one of our best-selling golf carts. Let me share their promotional poster with you."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 14:29:22",
+          "text": "Hi Ed, do you still plan to purchase golf carts at this time?/:raisehand."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 14:30:00",
+          "text": "It's June, and we're running a promotional campaign this month. Customers who place larger orders will receive applicable discounts./:raisehand."
+        }
+      ]
+    },
+    {
+      "conversationId": "133750873270-2500001439326#11011",
+      "contactName": "chris morel",
+      "contactAliId": 133750873270,
+      "contactLevel": "L3",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1046706638&activeAccountIdEncrypt=MC1IDX15p-WvzGhx2cdb-1tfJAjec_HhJM8O4PQpGoVcpHvaog83w4OZTN-eBWSdybr9-Td",
+      "lastActiveTime": "2026-06-10 16:08:59",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 16:08:59",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781078939566
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:00:35",
+          "text": "Hey Chris, are you still interested in purchasing golf carts?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:03:16",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":2305422,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648565965&parentId=4453432231&secOperateAliId=MC1IDX1TSptIwtZ5wZsx7A2qaxhFPbRqHCSOMGp-r7Y_arsXLt-ISVfBw037gSOIFRYnyUk&fileAction=imagePreview&scene=1\",\"md5\":\"821ea2bd3e0b5402a9d797f228d5c014\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:03:24",
+          "text": "Model E"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:03:32",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1840806,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648569884&parentId=4453432231&secOperateAliId=MC1IDX1PRamuIDCo2VvtmJtYpGibm4bt0YcBquDi8G9LrRWOpfJN_5z5nU2pSwlKcL0ez5k&fileAction=imagePreview&scene=1\",\"md5\":\"1acd2df41cdc303176a14d5e476b8ee7\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:03:39",
+          "text": "Model H"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:03:46",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1965531,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4650142260&parentId=4453432231&secOperateAliId=MC1IDX1x_EZahpn1cgYtLOYkhK6qoh_myz0ok0RB3mJx3DF0BprJsI_7DZql172d9pYBEp2&fileAction=imagePreview&scene=1\",\"md5\":\"6ce76509d958e7ff062121e1d0fe1a60\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:03:54",
+          "text": "Model I"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:07:10",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1635312,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648613137&parentId=4453432231&secOperateAliId=MC1IDX1eF9daTxhPoY8fMlQBy4AjMrBHCgtqSVXym_5n2IdnfXawhaouprkHW_3EslhQujT&fileAction=imagePreview&scene=1\",\"md5\":\"60258a99b1cde4a60a3dfc6df9530b28\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:07:22",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:07:33",
+          "text": "Model J"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:07:41",
+          "text": "{\"height\":1491,\"isOriginal\":0,\"width\":1055,\"size\":1696153,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4652063076&parentId=4453432231&secOperateAliId=MC1IDX13OqVKkrcrZL2Gb9Ng-8NcTMTmExVj4UkLiMHBqZ8Qpt-inu6HZ7EuGk2DwK_RVgq&fileAction=imagePreview&scene=1\",\"md5\":\"99f88faac3f4cdeb41ee4a25f265e1ff\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:07:48",
+          "text": "Model K"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:08:46",
+          "text": "The above are all golf carts with relatively high sales"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 16:08:59",
+          "text": "I'll share it with you to take a look"
+        }
+      ]
+    },
+    {
+      "conversationId": "2500001439326-4500012221162#11011",
+      "contactName": "joulaud david",
+      "contactAliId": 4500012221162,
+      "contactLevel": "L4",
+      "country": "CR",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1691291177&activeAccountIdEncrypt=MC1IDX1DgTh_DQYDyVi8YeJ_n7P0nxae3OF-7dWS9BfLwyYfGVwZmKwpzYVcCEmDaEqeCoB",
+      "lastActiveTime": "2026-06-10 15:39:11",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 15:39:11",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781077151716
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:37:32",
+          "text": "Hey joulaud, let me introduce our golf carts to you."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:37:47",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":2305422,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648381537&parentId=4448482193&secOperateAliId=MC1IDX1n20JSsmZYc1JRT9UBdf2FkgADynN3s6_arZsmfFmaqEM80aJp_8ie9qhyj1SQY_N&fileAction=imagePreview&scene=1\",\"md5\":\"821ea2bd3e0b5402a9d797f228d5c014\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:37:53",
+          "text": "Model E"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:37:59",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1840806,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651843427&parentId=4448482193&secOperateAliId=MC1IDX1ntphw5iN77mhfUK9gahDqpQzN5MyfLpFcbeAkOR9l26QZ3CqgDLE5htM3JujXiRV&fileAction=imagePreview&scene=1\",\"md5\":\"1acd2df41cdc303176a14d5e476b8ee7\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:02",
+          "text": "Model H"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:11",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1965531,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4649954327&parentId=4448482193&secOperateAliId=MC1IDX1j9xbHRnYQ7aznZ_RPhqzoCia7es9jeUWS-qjjpLojQPbl-_oQIGYkWSzLp4oA3KI&fileAction=imagePreview&scene=1\",\"md5\":\"6ce76509d958e7ff062121e1d0fe1a60\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:17",
+          "text": "Model I"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:27",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1635312,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651843589&parentId=4448482193&secOperateAliId=MC1IDX1krnbnNPU6VhpCnLYsNqr1iwFCCKOL84OjozN1N6OPGCoRfWq0Wwk_QoNLZQ_wIeE&fileAction=imagePreview&scene=1\",\"md5\":\"60258a99b1cde4a60a3dfc6df9530b28\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:35",
+          "text": "Model J"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:52",
+          "text": "{\"height\":1491,\"isOriginal\":0,\"width\":1055,\"size\":1696153,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651843691&parentId=4448482193&secOperateAliId=MC1IDX1sYhfLUkUlLYHE_EVcErnV35WVGms11qrOOgFXu845SENacJHxTM6cJc55Uc9MO7y&fileAction=imagePreview&scene=1\",\"md5\":\"99f88faac3f4cdeb41ee4a25f265e1ff\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:38:55",
+          "text": "Model K"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:39:11",
+          "text": "These are promotional posters for golf carts; let me share them with you."
+        }
+      ]
+    },
+    {
+      "conversationId": "133387655021-2500001439326#11011",
+      "contactName": "tayton wyrick",
+      "contactAliId": 133387655021,
+      "contactLevel": "L1",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=890609539&activeAccountIdEncrypt=MC1IDX1HTd00SJQw9hkV_poMLMpNTo03LuLmbrUTLwNO062LSlEMRGvQsHFhGebgfd8dwuY",
+      "lastActiveTime": "2026-06-11 11:59:13",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 11:59:13",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781150353330
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-08 06:10:29",
+          "text": "whichever is cheaper"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-08 06:10:30",
+          "text": "total cost with shipping to zipcode 34240?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 09:10:01",
+          "text": "Hey tayton 2-seater golf carts are cheaper than 4-seater golf carts"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:16:06",
+          "text": "Hi Tayton, the size and weight of the golf cart determine the shipping cost, so do you prefer a 2-seater or a 4-seater golf cart?/:thinking."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:17:15",
+          "text": "In addition, the configurations of the golf carts are as follows: \n 1. Motor 4KW, 5KW \n 2. 48V100Ah lithium battery, 48V150Ah lithium battery, 72V100Ah lithium battery \n 3. Tires 12inch and 14inch \n You can tell me the configuration you want, and I can help you calculate the exact price."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:17:24",
+          "text": "{\"height\":844,\"isOriginal\":0,\"width\":1249,\"size\":1319230,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4646776795&parentId=4644488800&secOperateAliId=MC1IDX1ZMx9ELb9cwJfJAl4fqHtYpjeyRw9xqrXUSLMh4sbFFgapyohJn8_NK---33KqKfW&fileAction=imagePreview&scene=1\",\"md5\":\"72403fc3534dd981ed43c1c59dd0177a\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:17:35",
+          "text": "This is the difference between 12inch and 14inch tires, I am sending it to you for reference"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 08:07:18",
+          "text": "4 seater, whichever tire is cheaper. give me price with shipping"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 08:07:54",
+          "text": "Okay, I will send you the quotation today for your reference"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:02:54",
+          "text": "price? im ready to order"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:03:21",
+          "text": "one unit"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:03:37",
+          "text": "I will send you the quote for the golf cart and shipping costs today"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:04:01",
+          "text": "ok be faster thanks"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:04:13",
+          "text": "Because calculating the shipping cost requires some time"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:04:17",
+          "text": "OK"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:38:59",
+          "text": "{\"cardType\":12,\"params\":{\"ctime\":\"1780972739636\",\"extensionType\":\"pdf\",\"from\":\"cn1576032807ncul\",\"id\":\"4650680148\",\"md5\":\"c117fe536b755c384a29b276766f1c7e\",\"parentId\":\"4644488800\",\"sign\":\"F9990A5B30C5071ADCB6CDDDA45E70DA186D44C5\",\"to\":\"us1270949192ixts\",\"type\":\"12\",\"version\":\"1\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4650680148&parentId=4644488800&secOperateAliId=MC1IDX1753wdVK37c9w9q9AuGCrSFOMFv68CsOMY7k8NSy1dktXiyDPOPcIRAe2zNl-QN_o&fileAction=officePreview&scene=1\",\"name\":\"E2 2 Parameters Table quote Tayton.pdf\",\"size\":926754,\"thumbnailUrl\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4650680148&parentId=4644488800&secOperateAliId=MC1IDX1bXS8oi4iJ6YsFYJExu0k-PF9XirdONCmrCfrdSHyJeHPHfNIHLfwteARYTGzVg0S&scene=1\"}}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:41:20",
+          "text": "Hey Tayton, here is the quote for the E model 4-seater golf cart, and the included configurations are as follows: \n 1. Motor 4KW \n 2. 48V 150Ah lithium battery \n 3. 12inch Tires \n 4. Other configurations: luxury seats, dashboard, and screen \n Regarding the warranty: \n (1) Lithium battery warranty period is 6 years \n (2) Golf cart accessories (motor, controller, rear axle) have a 2-year warranty. \n Free gift items: \n (1) Free custom logo for the seat and front bumper \n (2) Free photography and video recording of a set of golf carts"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 11:58:56",
+          "text": "Hey Tayton, I have already sent you the quote. Have you been very busy lately? Because it shows that you haven't been online for the past two days. Remember to check when you come online/:raisehand."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 11:59:13",
+          "text": "If there is anything that needs to be adjusted, you can let me know, and I can help you make the adjustments"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507552175540-2500001439326#11011",
+      "contactName": "Bouhaceine amel",
+      "contactAliId": 1507552175540,
+      "contactLevel": "L3",
+      "country": "QA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1518605723&activeAccountIdEncrypt=MC1IDX1hVS0BXjP0BHO87gwLYjp2amUvOYxnnGEAqPOHq0Tum90p3uMvNL5wa5xleE87vYS",
+      "lastActiveTime": "2026-06-10 15:14:43",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 15:14:43",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781075683495
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:13:17",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":2305422,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4649770410&parentId=4450211106&secOperateAliId=MC1IDX1cZVuIqb_Vk8xTihgFrJ4BhK4M9qsv5eT7Q9zNgxaphqvuOCBTVFJ_wSNHK8B3sWD&fileAction=imagePreview&scene=1\",\"md5\":\"821ea2bd3e0b5402a9d797f228d5c014\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:13:22",
+          "text": "Model E"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:13:29",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1840806,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651711749&parentId=4450211106&secOperateAliId=MC1IDX15Rl1eW3FrU-bKIU-w7734oDjPbjNZN8tMHfbZUNxjPk0eQDEnhYGEdvyzqSZiey7&fileAction=imagePreview&scene=1\",\"md5\":\"1acd2df41cdc303176a14d5e476b8ee7\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:13:33",
+          "text": "Model H"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:13:42",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1965531,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648201878&parentId=4450211106&secOperateAliId=MC1IDX1JvzRzQDLmRk8_Y0NRWSl3qhEd4xf00dfZn4nA7BL2LjdG3MYQDGY4QCT6cWmbEzA&fileAction=imagePreview&scene=1\",\"md5\":\"6ce76509d958e7ff062121e1d0fe1a60\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:13:45",
+          "text": "Model I"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:14:07",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1635312,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648209270&parentId=4450211106&secOperateAliId=MC1IDX1Oatiz32GF254tgyDRfGov2SQV_ACThL0HXDLfvJpDynoiufuLYOb-9sAgb8Kw57l&fileAction=imagePreview&scene=1\",\"md5\":\"60258a99b1cde4a60a3dfc6df9530b28\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:14:13",
+          "text": "Model J"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:14:19",
+          "text": "{\"height\":1491,\"isOriginal\":0,\"width\":1055,\"size\":1696153,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648209315&parentId=4450211106&secOperateAliId=MC1IDX134XYFbw9kqcx5IngQS81208kX0J_EILdHEDa7I_Tak2YVFcKMFo1MQbLncYZfcp6&fileAction=imagePreview&scene=1\",\"md5\":\"99f88faac3f4cdeb41ee4a25f265e1ff\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:14:23",
+          "text": "Model K"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:14:43",
+          "text": "Hey Bouhaceine, these are some of our best-selling golf carts that I'm sharing with you to take a look at"
+        }
+      ]
+    },
+    {
+      "conversationId": "2034003524528-2500001439326#11011",
+      "contactName": "Mary McGluwa",
+      "contactAliId": 2034003524528,
+      "contactLevel": "L3",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1637324561&activeAccountIdEncrypt=MC1IDX1j4mAeEXFjahv3YTIAvxuGGqWotepphMwvdzIzyo17NQxcWLnBF8u341nPYPqAgI7",
+      "lastActiveTime": "2026-06-10 15:12:23",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 15:12:23",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781075543788
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:10:29",
+          "text": "Hello Mary, do you still plan to place an order for golf carts?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:10:43",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":2305422,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4649758484&parentId=4453932312&secOperateAliId=MC1IDX1WK8c7Cx96O-jaQpa5taNZvVTum_x9etFIf7kQI7-CQlvU1iNejy11b1C-1gdJOy6&fileAction=imagePreview&scene=1\",\"md5\":\"821ea2bd3e0b5402a9d797f228d5c014\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:10:51",
+          "text": "Model E"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:10:58",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1840806,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4648193450&parentId=4453932312&secOperateAliId=MC1IDX1aIVHEz4QwlvdohMUypT2g95DsdRj-kAdmf8JtBQkep9eQqWLJoY1kw-bxrhJ7rjE&fileAction=imagePreview&scene=1\",\"md5\":\"1acd2df41cdc303176a14d5e476b8ee7\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:11:03",
+          "text": "Model H"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:11:15",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1965531,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4649758628&parentId=4453932312&secOperateAliId=MC1IDX12SDxiO0KbSSZuKa-r6DxArawCyjONM3CvJwIPZsadjHBIGCEN-n4IzeKPle5Toy5&fileAction=imagePreview&scene=1\",\"md5\":\"6ce76509d958e7ff062121e1d0fe1a60\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:11:18",
+          "text": "Model I"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:11:34",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1635312,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651695922&parentId=4453932312&secOperateAliId=MC1IDX1C4v2XKK0wtr6m4P2o6lpEzZr-t8RqKR1Cfdu9QqJCJXghoBewVaer-To7m1r__6t&fileAction=imagePreview&scene=1\",\"md5\":\"60258a99b1cde4a60a3dfc6df9530b28\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:11:37",
+          "text": "Model J"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:12:05",
+          "text": "{\"height\":1491,\"isOriginal\":0,\"width\":1055,\"size\":1696153,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651703820&parentId=4453932312&secOperateAliId=MC1IDX1P_Heg5x47qdc6LQ_5yQma1tssEPlei_Uq4n9P41ocDBKNny75F0q9tcVFi6RO8vJ&fileAction=imagePreview&scene=1\",\"md5\":\"99f88faac3f4cdeb41ee4a25f265e1ff\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:12:12",
+          "text": "Model K"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 15:12:23",
+          "text": "These are our best-selling golf carts."
+        }
+      ]
+    },
+    {
+      "conversationId": "2500001439326-3500000573783#11011",
+      "contactName": "Naushad Mohamed",
+      "contactAliId": 3500000573783,
+      "contactLevel": "L3",
+      "country": "MV",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=7063707426&activeAccountIdEncrypt=MC1IDX1_nrHFMFkZR2daIMGM_NQnsWP-xzBojfz6P17crNUoJfkqJm_E2v3jW3N4mzzm79i",
+      "lastActiveTime": "2026-06-10 13:58:55",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 13:58:55",
+        "senderAccountType": null,
+        "senderAliId": 2500001439326,
+        "timestamp": 1781071135223
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:56:06",
+          "text": "Hello Naushad, let me introduce you to our best-selling golf carts"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:56:25",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":2305422,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651191482&parentId=4448438691&secOperateAliId=MC1IDX1EYiGVXpwm0ns3jkPYeDHajPXK6h-IFj0s6FHTiX_fks9ZOEiDLcYhtDnNc_srguF&fileAction=imagePreview&scene=1\",\"md5\":\"821ea2bd3e0b5402a9d797f228d5c014\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:56:28",
+          "text": "Model E"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:57:58",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":156946,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4647781486&parentId=4448438691&secOperateAliId=MC1IDX1jEwKr_OThgrt5pY1gQ_kIsnirgiCm8EMGZ07VeE0vQMiDyjubfVmJgA-QWeu8Y1G&fileAction=imagePreview&scene=1\",\"md5\":\"650b523086fbad1a530f9ab71ed2647b\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:03",
+          "text": "Model H"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:10",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1965531,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651191949&parentId=4448438691&secOperateAliId=MC1IDX1r9kFaAUO3zDGk1XNYRkFuKH95FtEYCBGMqBJ8dw6pGb-RpK2qmfut7u_D1Qp5Fsm&fileAction=imagePreview&scene=1\",\"md5\":\"6ce76509d958e7ff062121e1d0fe1a60\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:15",
+          "text": "Model I"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:24",
+          "text": "{\"height\":1254,\"isOriginal\":0,\"width\":1254,\"size\":1635312,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4647797109&parentId=4448438691&secOperateAliId=MC1IDX1qTBDf5RsmW62PayxZvShUoPLaTDAlAxYFYWdt6LgojUrb5ROeupjrDr-O0oALvtz&fileAction=imagePreview&scene=1\",\"md5\":\"60258a99b1cde4a60a3dfc6df9530b28\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:28",
+          "text": "Model  J"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:35",
+          "text": "{\"height\":1491,\"isOriginal\":0,\"width\":1055,\"size\":1696153,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651195993&parentId=4448438691&secOperateAliId=MC1IDX1Pg2_I5tmiDNQErsROVJInIlJQX3duQFG7Dwn9d51PhQKPFzWNJ9ZZIcyHmnaASgf&fileAction=imagePreview&scene=1\",\"md5\":\"99f88faac3f4cdeb41ee4a25f265e1ff\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:38",
+          "text": "Model K"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:58:55",
+          "text": "These are our best-selling golf carts, I'm sharing them with you to take a look"
+        }
+      ]
+    },
+    {
+      "conversationId": "133632760709-2500001439326#11011",
+      "contactName": "Dylan Schoeman",
+      "contactAliId": 133632760709,
+      "contactLevel": "L2",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=988339346&activeAccountIdEncrypt=MC1IDX1GAyF_lvWnNu4DaENuUAU01TpECHF8DljNAIirMiXWZYletVZcOsaQ3ym473ECeTv",
+      "lastActiveTime": "2026-06-10 10:53:22",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 10:53:22",
+        "senderAccountType": null,
+        "senderAliId": 133632760709,
+        "timestamp": 1781060002151
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:52:48",
+          "text": "{\"size\":42150306,\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4654984958&parentId=4578087525&secOperateAliId=MC1IDX102d7el7mVb2_OuT-Av7qyH5BJSGpP4btBVUYXwnSrU8hcZyrGpJw4IGiu0NSC4NI&fileAction=download&scene=1\",\"mediaId\":\"\",\"duration\":0,\"width\":0,\"height\":0,\"md5\":\"35b0db4b9e8a911f5c1bdf5d08f0f9ba\",\"pic\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4654984958&parentId=4578087525&secOperateAliId=MC1IDX15AWH3sdUALOmasjI8fwwHl7BmXX6VJbxMP_nX7iSSKFr9MV2wVM9X7wNz1y2WOfY&scene=1\",\"fileId\":\"35b0db4b9e8a911f5c1bdf5d08f0f9ba.mp4\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:53:15",
+          "text": "Hey Dylan, our screen not only has multimedia functions but also has a reverse camera function"
+        }
+      ]
+    },
+    {
+      "conversationId": "2214642227877-2217942420940#11011",
+      "contactName": "Assistant Eva",
+      "contactAliId": 2217942420940,
+      "contactLevel": null,
+      "country": "CN",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=278505947&activeAccountIdEncrypt=MC1IDX1Vc5PN74lsvREnZL88a-JzZ706oDXQGyN6DVGQsnW7cPdpCMgfWi07erZYxshYLwL",
+      "lastActiveTime": "2026-06-10 14:38:51",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 14:38:51",
+        "senderAccountType": null,
+        "senderAliId": 2217942420940,
+        "timestamp": 1781073531731
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-10 14:38:51",
+          "text": "{\"cardType\":2106,\"params\":{\"toUid\":\"2214642227877\",\"remindBuyers\":\"[{\\\"activeAccountId\\\":\\\"851092291\\\",\\\"activeAccountIdEncrypt\\\":\\\"MC1IDX1LR78NSAtvRWzAibvroeqAvhMCAjMV6lmyyji3x1TQra8llByibPTOZfv7ofpbMLV\\\",\\\"aliId\\\":133350645542,\\\"chatToken\\\":\\\"TVdZcmMzQk5NRll6SzJFelMwRkRRblJJZFZKVUt5ODRNMEpCVUhjNGJGUXdaVEJpUlZsU2FtbEVXVnB4ZWpJeVJFOXZhRVIwTW5oeGVYUTBVMGhWVjFscGFYYzNUMFZsUTJkbGF6a3dTa2s0WTJsYVIzZEJabmxwWXprclVWVnNZVmROUTBJM2FpdDBXR3B2UTBKSmNHUnlhMlJWV1M5cUwxTlNXVTVHYWtGSFFrVjFlR1pQT1RRMFdHdFROMVp4VlRKTVdsZFpMMHBhYlhSYWFXdGphM0JuYjNSa1ZreFBkMkV3UjBGTFlWaGhWWFZOY1ZVMVpGUnNRblpHVEVveCZ2ZXJzaW9uPTIuMC4w\\\",\\\"loginIdEncrypt\\\":\\\"8pctgRBMALNr%2FkXZnZvZ1Wqy%2B7NyKD7Q6wdkfYSa%2Bs4%3D\\\",\\\"questionType\\\":\\\"7dNotPay\\\"}]\",\"fromUid\":\"2217942420940\",\"sign\":\"D53F1870AF217542700FB7957475854D2087930D\",\"ctime\":\"1781073531641\"}}"
+        }
+      ]
+    },
+    {
+      "conversationId": "17181933246-2214642227877#11011",
+      "contactName": "John william",
+      "contactAliId": 17181933246,
+      "contactLevel": "L1",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=2064062&activeAccountIdEncrypt=MC1IDX1CVNp2JP06Glh_C0croVWuf2pReYNInHV6WzNKrKdYfIps-JQ166Jv2Xr0adD5hdu",
+      "lastActiveTime": "2026-06-12 07:59:46",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 07:59:46",
+        "senderAccountType": null,
+        "senderAliId": 2214642227877,
+        "timestamp": 1781222386812
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-10 06:33:59",
+          "text": "This is a inquiry card. Inquiry id is 20492023316; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 06:34:11",
+          "text": "I'll confirm the pricing with my senior manager."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:00:52",
+          "text": "Hello, dear friend"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:01:04",
+          "text": "Are you sure you want the fuel-powered version?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:03:31",
+          "text": "The U.S. government's anti-dumping policies are too strict now"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 11:10:04",
+          "text": "yes 400cc 4 front facing + 2 back"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 13:04:05",
+          "text": "Is it being shipped to the United States?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 11:20:06",
+          "text": "yes to the US"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 11:21:27",
+          "text": "Now the US Customs has become too strict with golf requirements"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 11:21:57",
+          "text": "Currently, we only have 300CC fuel-powered golf carts. How many do you plan to purchase?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 11:24:43",
+          "text": "one for now. we are looking only for 400cc.  I need a formal quote to present this to my team."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 11:25:43",
+          "text": "But we don't have the 400CC model right now, and as you know, going to the US requires EPA certification, and currently our certification is for 300CC"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 03:46:22",
+          "text": "Thank you"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 07:59:46",
+          "text": "You're welcome, dear John"
+        }
+      ]
+    },
+    {
+      "conversationId": "133350645542-2214642227877#11011",
+      "contactName": "Esraa Elkholy",
+      "contactAliId": 133350645542,
+      "contactLevel": "L3",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=851092291&activeAccountIdEncrypt=MC1IDX18EjKAhMjx85lZ67bNAe0yJsczKnDHM0_wnCwFLoKF4ClMajtzeyjVad4vpsWJTIn",
+      "lastActiveTime": "2026-06-10 14:39:48",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 14:39:48",
+        "senderAccountType": null,
+        "senderAliId": 2214642227877,
+        "timestamp": 1781073588306
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:39:33",
+          "text": "Hello, Esraa?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:39:48",
+          "text": "How are you?"
+        }
+      ]
+    },
+    {
+      "conversationId": "133191829570-2214642227877#11011",
+      "contactName": "PT BUKIT DHOHO INDAH",
+      "contactAliId": 133191829570,
+      "contactLevel": "L4",
+      "country": "ID",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=193468441&activeAccountIdEncrypt=MC1IDX1RqdWVNdrp9NS_v9JZj1l_OEgOc47mc2BWDwI8NgSxskX6NeGnEbAdf4S858TTUoZ",
+      "lastActiveTime": "2026-06-12 09:31:37",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 09:31:37",
+        "senderAccountType": null,
+        "senderAliId": 2214642227877,
+        "timestamp": 1781227897874
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 09:31:37",
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "conversationId": "2214642227877-2500001605868#11011",
+      "contactName": "User name",
+      "contactAliId": 2500001605868,
+      "contactLevel": null,
+      "country": "CN",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=286291318&activeAccountIdEncrypt=MC1IDX18uYssKf7vsf-WoUusKIQBjgRC32dmcxNQem3ps__W7G5-mkMw7kFyB_dReC_U5xG",
+      "lastActiveTime": "2026-06-08 14:20:52",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-08 14:20:52",
+        "senderAccountType": null,
+        "senderAliId": 2214642227877,
+        "timestamp": 1780899652126
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-08 11:23:34",
+          "text": "嗨，我想看看你的联系人信息，这里是我的名片"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-08 11:23:34",
+          "text": "{\"cardType\":1,\"params\":{\"showCertifications\":\"false\",\"showEmailAddress\":\"true\",\"sign\":\"78DAC7DB87854EAE6771A690C0E1647750F13D7F\",\"ctime\":\"1780889014552\",\"from\":\"cn1575959916crbg\",\"to\":\"dzkaipule\",\"showCompanyName\":\"false\"}}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:23:45",
+          "text": "Received! We're a top golf cart maker. Interested?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 14:20:51",
+          "text": "你好"
+        }
+      ]
+    },
+    {
+      "conversationId": "2500000366422-4500079138619#11011",
+      "contactName": "Thirston Hightower",
+      "contactAliId": 4500079138619,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1759150669&activeAccountIdEncrypt=MC1IDX1ph4K9DR9y1TO-IDV_FQDasY3ltLPgyfGlLFjVf_QwgLiEETTE9WgnR71FtAZW_P8",
+      "lastActiveTime": "2026-06-09 09:33:59",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 09:33:59",
+        "senderAccountType": null,
+        "senderAliId": 2500000366422,
+        "senderRole": "seller",
+        "timestamp": 1780968839131
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:33:35",
+          "text": "This is a inquiry card. Inquiry id is 20493421842; Product id is 1601681634494. Product Name is Kepler 20*10 12 Inch Off-Road Tire Wheel Tubeless Tyre Tire with Rim for Golf Cart ATV UTV Buggy; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:33:49",
+          "text": "This is a 12-inch tubeless off-road tire with rim, perfect for golf carts, ATVs, UTVs, and buggies."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:33:58",
+          "text": "Hi, dear Thirston"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507656746681-2500000366422#11011",
+      "contactName": "Shannon Hart",
+      "contactAliId": 1507656746681,
+      "contactLevel": "L1",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1622607439&activeAccountIdEncrypt=MC1IDX1rYnG3uxxmMlgvUxrnAZK_-WGkIWVjNT2-G8aKhAsCXEva8MdNQGo04fHkQzRWIlw",
+      "lastActiveTime": "2026-06-08 08:51:46",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-08 08:51:46",
+        "senderAccountType": null,
+        "senderAliId": 1507656746681,
+        "senderRole": "buyer",
+        "timestamp": 1780879906732
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-08 08:51:09",
+          "text": "Hi, Shannon Hart! Want more details about us? Message me and I'll reply as soon as possible!"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 08:51:32",
+          "text": "Hi, dear Shannon"
+        }
+      ]
+    },
+    {
+      "conversationId": "1990004703381-2500000366422#11011",
+      "contactName": "Royal Shah",
+      "contactAliId": 1990004703381,
+      "contactLevel": null,
+      "country": "CN",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=284488412&activeAccountIdEncrypt=MC1IDX1Ni579YkrqoUIfh0N_Nf7EHyzR9x11OcrzNK8H-hwSNoBhg3CKwrlxa4M7hy6BoMn",
+      "lastActiveTime": "2026-06-11 22:10:52",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 22:10:52",
+        "senderAccountType": null,
+        "senderAliId": 2500000366422,
+        "senderRole": "seller",
+        "timestamp": 1781187052727
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:17:01",
+          "text": "Hello"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:17:02",
+          "text": "{\"cardType\":2028,\"params\":{\"toUid\":\"2500000366422\",\"fromUid\":\"1990004703381\",\"sign\":\"024F5BE298D386245733D3B5BABF72E1338546AE\",\"ctime\":\"1781180222301\",\"id\":\"1601679752434\"}}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 20:17:11",
+          "text": "Hi there! How can I help you today?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 20:17:33",
+          "text": "Hi，dear Royal"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:17:50",
+          "text": "Are you online"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:18:16",
+          "text": "Need tire for export"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:18:18",
+          "text": "245/45 R20。  265/45 R20。     255/55 R19。   235/50 R19。"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 20:18:41",
+          "text": "What is the quantity that needs to be purchased?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:19:02",
+          "text": "40 GP"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 20:19:11",
+          "text": "One full container"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 22:09:54",
+          "text": "Our tire is specifically designed for golf carts. Are you planning to install it on a golf cart?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 22:10:32",
+          "text": "No"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 22:10:52",
+          "text": "Where do you want to install it?"
+        }
+      ]
+    },
+    {
+      "conversationId": "17282255854-2217561219346#11011",
+      "contactName": "sharease rolle",
+      "contactAliId": 17282255854,
+      "contactLevel": "L1",
+      "country": "BS",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=102386670&activeAccountIdEncrypt=MC1IDX1IVTWjfQ6VWPm_e_DBJra7zgV7SUxyJli1nYDsMwRKXEkpB5KNo9wpV5UohsuflGz",
+      "lastActiveTime": "2026-06-14 05:04:40",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-14 05:04:40",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781384680056
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-13 23:51:46",
+          "text": "Hello"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 23:51:48",
+          "text": "{\"cardType\":2028,\"params\":{\"toUid\":\"2217561219346\",\"fromUid\":\"17282255854\",\"sign\":\"5FC6088633942B513339801A2A7DBA50F119E257\",\"ctime\":\"1781365907832\",\"id\":\"1601729538822\"}}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 23:51:57",
+          "text": "Hi there! How can I help you today?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 23:52:07",
+          "text": "I would like a cart"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 23:52:28",
+          "text": "{\"isOriginal\":1,\"size\":315203,\"width\":563,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4661454430&parentId=4661454428&secOperateAliId=MC1IDX1p9aArHbpssmniZuM1sewUkq7Avvmq9T41o91of6TKKjO_fYdSLB79GWAuCjhdRtB&fileAction=imagePreview\",\"height\":563,\"md5\":\"b93642cfb979c564a8a099006e1a1c5\",\"fileId\":\"b93642cfb979c564a8a099006e1a1c5.png\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 23:52:28",
+          "text": "Nice pick! How many carts do you need? Here's a look at one of our models."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-14 05:04:39",
+          "text": "Hello, friend"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-4500085201079#11011",
+      "contactName": "Paquito Flores",
+      "contactAliId": 4500085201079,
+      "contactLevel": "L2",
+      "country": "PR",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1764337247&activeAccountIdEncrypt=MC1IDX1Sqs8Kg0_0wAPnPEV47dvl7kPnO8jEC1EWDYiJBz6wUrvxqmHhJ_RCVbM1t7XUk7C",
+      "lastActiveTime": "2026-06-14 08:06:27",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-14 08:06:27",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781395587920
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-14 06:18:04",
+          "text": "This is a inquiry card. Inquiry id is 20493591204; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-14 06:18:17",
+          "text": "Hola, somos fabricantes con 3 años de experiencia y certificados. Nuestro carrito eléctrico de 4 plazas tiene frenos de disco hidráulicos y baterías de litio o ácido, según prefieras. Voy a consultar el precio con mi gerente y te aviso pronto."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-14 06:30:02",
+          "text": "This is a inquiry card. Inquiry id is 20496210583; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-14 06:30:15",
+          "text": "Tiene motor de hasta 7.5kW y una autonomía de 90 km."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-14 08:06:27",
+          "text": "Hola, amigo."
+        }
+      ]
+    },
+    {
+      "conversationId": "133760852782-2217561219346#11011",
+      "contactName": "James Williams",
+      "contactAliId": 133760852782,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1054191288&activeAccountIdEncrypt=MC1IDX1rUAQTFENBqUpk1zlZhwmtwwiFN_L7sw_6uwalRBCgPjp9GlXRSzxQWQHvsjqXgW6",
+      "lastActiveTime": "2026-06-13 12:04:55",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-13 12:04:55",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781323495805
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-13 12:02:06",
+          "text": "This is a single product card. Product name is 1601729699452"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 12:02:18",
+          "text": "Hi! Our 48V-72V lithium carts hit around 90km range and come in custom colors. How many are you thinking of ordering?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 12:03:14",
+          "text": "I guess one for now"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 12:03:26",
+          "text": "Got it, one unit. I'll check the price for you."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 12:03:47",
+          "text": "ok"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 12:03:57",
+          "text": "Great! I'll get the quote to you soon."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 12:04:39",
+          "text": "ok"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 12:04:49",
+          "text": "Could you share your email so I can send over the quote?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 12:04:53",
+          "text": "This is our Model E.\n\nThe base‑ configuration includes the following:\n\n– 48V, 150Ah lead‑acid battery\n– 5kW motor\n– 12‑inch aluminum alloy wheels\n– Roof\n– Front bumper\n– Seats with headrests\n– Flip‑down rear seats (which, when folded, create a storage compartment that can hold ice and function as a cooler)\n– MacPherson independent suspension\n– Turn signals, taillights, and headlights\n– Rearview mirrors\n– Folding windshield\n– Two‑point seat belts\n– Carbon‑fiber steering wheel"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 12:04:55",
+          "text": "Upgraded configurations include (at an additional cost):\n\nMultifunctional screen (supports CarPlay, Bluetooth, and rearview camera)\nAluminum side steps\nLong-strip audio system\nFront storage basket\nBattery upgrade\nMotor upgrade\nIncreased seating capacity\nRotatable seat armrests\nBody‑mounted LED light strip\nWireless charging\nEPS electric power steering\nUpgrade to a double‑wishbone independent suspension system\nGolf bag holder\nSand bucket\nInsulated cooler box\nCar refrigerator"
+        }
+      ]
+    },
+    {
+      "conversationId": "2034002141773-2217561219346#11011",
+      "contactName": "syd alhwary",
+      "contactAliId": 2034002141773,
+      "contactLevel": "L1",
+      "country": "LY",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1635811125&activeAccountIdEncrypt=MC1IDX1PAVDaq994fPs0uHVY3U0jYWYLZESY_eDJWuGGeXZ-ktcMNaxdGyF3P21VB1gxa4b",
+      "lastActiveTime": "2026-06-12 19:28:27",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 19:28:27",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781263707557
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 18:39:02",
+          "text": "Hi, syd alhwary!Want to know more about us? Feel free to ask me anything!"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 19:27:55",
+          "text": "Hello"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 19:28:02",
+          "text": "Nice to meet you, friend"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 19:28:27",
+          "text": "You want to look for a golf cart, right?"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507561953021-2217561219346#11011",
+      "contactName": "David Reid",
+      "contactAliId": 1507561953021,
+      "contactLevel": null,
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1528458493&activeAccountIdEncrypt=MC1IDX1kj722vdp79kc699IdM0YZfi2MnTvdtJWQWKvHBH6PJCIJzpQiJIEAMC8Y05Hj95n",
+      "lastActiveTime": "2026-06-13 05:24:03",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-13 05:24:03",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781299443130
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-13 05:18:32",
+          "text": "This is a inquiry card. Inquiry id is 100000028969743; Product id is 1601726606047. Product Name is Kepler Adult Electric Campus Shuttle 6-Passenger Capacity Rear Axle Drive 4-Wheel Design for Resort Shuttle; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:18:45",
+          "text": "Hi! I can get you a quote for 1 set. Where would you like it shipped?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:19:14",
+          "text": "Hello, David, nice to meet you"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:19:41",
+          "text": "You can tell me your requirements, and I will assess whether they are suitable for you"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 05:19:47",
+          "text": "Shipped to Johannesburg, South Africa"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 05:20:01",
+          "text": "Are you able to customise"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:20:50",
+          "text": "The base‑configuration includes the following:\n\n– 48V, 150Ah lead‑acid battery\n– 5kW motor\n– 12‑inch aluminum alloy wheels\n– Roof\n– Front bumper\n– Seats with headrests\n– Flip‑down rear seats (which, when folded, create a storage compartment that can hold ice and function as a cooler)\n– MacPherson independent suspension\n– Turn signals, taillights, and headlights\n– Rearview mirrors\n– Folding windshield\n– Two‑point seat belts\n– Carbon‑fiber steering wheel"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:20:59",
+          "text": "Upgraded configurations include (at an additional cost):\n\nMultifunctional screen (supports CarPlay, Bluetooth, and rearview camera)\nAluminum side steps\nLong-strip audio system\nFront storage basket\nBattery upgrade\nMotor upgrade\nIncreased seating capacity\nRotatable seat armrests\nBody‑mounted LED light strip\nWireless charging\nEPS electric power steering\nUpgrade to a double‑wishbone independent suspension system\nGolf bag holder\nSand bucket\nInsulated cooler box\nCar refrigerator"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:21:11",
+          "text": "You want a four-seater, right?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 05:22:27",
+          "text": "Can you send me a few pictures of a cart with all the configurations and the pricing"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 05:22:32",
+          "text": "4 seater yes"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:22:47",
+          "text": "{\"duration\":\"0\",\"fileId\":\"23eb06b6925a5f8383b9f137b530e2fc.mp4\",\"height\":\"0\",\"pic\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4658093545&parentId=4658093544&secOperateAliId=MC1IDX1dWwIC9sK59D_QRZPfVitaE_dH-oFvRWrjl6huzehlUKY-WHmpCb1c_reuVPvzXka&scene=1\",\"size\":\"26995531\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4658093545&parentId=4658093544&secOperateAliId=MC1IDX1HT7qfftGNasoacesCIY3pVl7BJiV3VHg6UOJXzBaCsuQxgSChlGIE9WBYCsVdJxq&fileAction=download&scene=1\",\"width\":\"0\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 05:24:03",
+          "text": "This is a car ordered by an American customer, you can take a look at it"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-4500015326663#11011",
+      "contactName": "Ederson Torquato",
+      "contactAliId": 4500015326663,
+      "contactLevel": "L1",
+      "country": "BR",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1695788003&activeAccountIdEncrypt=MC1IDX1aIxjWLNcLHjQG8CiBDArudt_4Co3FfnmCLKhGTYjcFf6-QMSv1LfJqK7E1yI2y7P",
+      "lastActiveTime": "2026-06-12 08:21:20",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 08:21:20",
+        "senderAccountType": null,
+        "senderAliId": 4500015326663,
+        "timestamp": 1781223680587
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:05:09",
+          "text": "This is a single product card. Product name is 1601729538822"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:05:20",
+          "text": "Hello! Our 4-seater cart is luxury-certified. Need customization details?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:05:45",
+          "text": "Preciso de rodas 12 e pneus liso pra campo de golfe"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:05:54",
+          "text": "Sem luzes neon"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:06:11",
+          "text": "Rodas 12'' ok. Quais detalhes mais do pneu?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:06:31",
+          "text": "Pneu liso pra grama não pode ser off road"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:06:39",
+          "text": "Quero 2+2"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:06:54",
+          "text": "Confirmado: modelo 2+2 e pneus lisos. Algo mais?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:07:06",
+          "text": "Frete cif Porto de\nRio grande"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:07:16",
+          "text": "Qual a quantidade? Vou orçar o frete e preço."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:07:31",
+          "text": "Uma unidade \nE 6 unidades"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:07:41",
+          "text": "Orça os dois"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:07:42",
+          "text": "Vou confirmar os valores com meu gerente."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:07:52",
+          "text": "Vou confirmar os preços e o frete com meu gerente"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:07:59",
+          "text": "Ok"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:08:09",
+          "text": "I'll update you once I have the best pricing."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:09:00",
+          "text": "Ok"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 05:09:10",
+          "text": "I'll get back to you with the quote soon."
+        }
+      ]
+    },
+    {
+      "conversationId": "1507650323237-2217561219346#11011",
+      "contactName": "JorgeLuis EspinozaGaleano",
+      "contactAliId": 1507650323237,
+      "contactLevel": "L1",
+      "country": "NI",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1616776536&activeAccountIdEncrypt=MC1IDX1tpOxwdnXvYAGyVImJYz-u1TxHWLDFAJ_VpgumXsGIb4OR-eoWwsxCtyEg1Di6aJd",
+      "lastActiveTime": "2026-06-08 07:58:45",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-08 07:58:45",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1780876725639
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-08 07:10:27",
+          "text": "This is a inquiry card. Inquiry id is 20491651293; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 07:10:40",
+          "text": "Hola, voy a consultar con mi gerente sobre la muestra de embalaje y te aviso pronto."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 07:58:45",
+          "text": "你好"
+        }
+      ]
+    },
+    {
+      "conversationId": "17311104189-2217561219346#11011",
+      "contactName": "ali ott",
+      "contactAliId": 17311104189,
+      "contactLevel": "L2",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=131235005&activeAccountIdEncrypt=MC1IDX1bp9nfgxMVaFRyMGp8KrfLWBABvVtPlDG46eRyS8gTYQ_2avF85RcfnGAKiMrwEfq",
+      "lastActiveTime": "2026-06-14 22:57:08",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-14 22:57:08",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781449028474
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 18:33:55",
+          "text": "What about to the Dominican Republic?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 19:30:06",
+          "text": "That's great, friend."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 19:31:14",
+          "text": "There is no problem with shipping to the Dominican Republic."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 19:31:39",
+          "text": "Give me an address in the Dominican Republic, and I will inquire about the shipping cost, my friend."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 08:35:13",
+          "text": "你好，朋友，能提供一下你的多米尼加共和国的收货地址吗或者港口名称？我来查询一下CIF价格"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 20:38:45",
+          "text": "Campo Del Mar 16. Sosua ocean village 57700. Sosua Puerto Plata"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 20:42:03",
+          "text": "Bien, amigo, voy a consultar el costo de envío a esta dirección."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 09:34:08",
+          "text": "El costo CIF de un carrito de golf de 4 plazas es de 2050 USD."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 09:39:20",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 09:39:43",
+          "text": "Tenemos otra empresa de transporte con la que colaboramos, la cual nos ofrece una cotización de 950."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 09:41:06",
+          "text": "Los canales de envío de cada empresa son diferentes; creo que puedes elegir el que cotizó 950 USD, ellos también"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 17:35:04",
+          "text": "So 950 for one car?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 17:42:19",
+          "text": "Sí, amigo, un vehículo de cuatro plazas"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 17:44:42",
+          "text": "El de dos asientos será más barato, el de 6 asientos será un poco más caro, porque el volumen cambiará."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:00:06",
+          "text": "So total cost door to door? No need to respond in Spanish. English is fine"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 05:00:23",
+          "text": "Shipped, delivered. Paying all taxes and fees"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 08:54:26",
+          "text": "Hola, amigo, el precio de envío que le envié ayer es el costo CIF, no el costo de entrega a domicilio, por lo que no incluye impuestos ni la entrega final."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 09:33:16",
+          "text": "So you now need the cost for door-to-door delivery (including sea freight, customs clearance, duties, delivery, etc.), is that correct?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 09:45:35",
+          "text": "Yes"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 09:46:12",
+          "text": "OK, then I will find a freight forwarder to provide you with a DDP quote."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 09:58:06",
+          "text": "There is a freight forwarding company that can ship to your US address at 10668 andrade dr, zionsville, Indiana, 46077."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 09:58:40",
+          "text": "Including sea freight, customs duties, customs clearance, and last-mile delivery, the total cost is 4500."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 10:05:51",
+          "text": "Since the Dominican Republic is a small island nation, it rarely offers door-to-door delivery services."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 10:07:35",
+          "text": "The price for the standard configuration of Model E 2+2 seater is 4241 USD.\n\nTherefore, the total price is 4241 USD + 4500 USD = 8741 USD."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-14 20:08:22",
+          "text": "So 8741 delivered to my address in the Dominican Republic. That includes the golf cart, shipping and customs/taxes"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-14 22:57:08",
+          "text": "Por el momento, no he encontrado ninguna compañía naviera que vaya a República Dominicana. Como es un país insular pequeño, hay pocas embarcaciones que crucen hacia allí./:smile."
+        }
+      ]
+    },
+    {
+      "conversationId": "202034494859-2217561219346#11011",
+      "contactName": "Walid Eladly",
+      "contactAliId": 202034494859,
+      "contactLevel": "L4",
+      "country": "EG",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=813322860&activeAccountIdEncrypt=MC1IDX160MURqxXPCzEutN6OOcG6VrHUe41rqe7F7FDXdz6EA0VfzsWF_qFKrPlAke6LOUH",
+      "lastActiveTime": "2026-06-11 15:17:19",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 15:17:19",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781162239989
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-11 15:17:19",
+          "text": "مرحباً وليد، طال الغياب. أعلم أنك مشغول جداً، لذا آسف على الإزعاج. هل تفكر في سيارات الجولف الخاصة بنا مؤخراً؟"
+        }
+      ]
+    },
+    {
+      "conversationId": "2034035755308-2217561219346#11011",
+      "contactName": "James Sparks",
+      "contactAliId": 2034035755308,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1670323741&activeAccountIdEncrypt=MC1IDX1LyFqNtQuDnEqdJ4FMYssc8F8pkst-Lu4n6LoYFBnPSqOCEBE6sGBv0JNVy-cjVqD",
+      "lastActiveTime": "2026-06-12 12:15:52",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 12:15:52",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781237752480
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:49:02",
+          "text": "Hi, James Sparks! Is there anything about this product that I can help you with? Feel free to ask me anything!"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:49:16",
+          "text": "Hello, friend"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:49:30",
+          "text": "Hello"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:49:31",
+          "text": "Nice to meet you, are you looking for a golf cart?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:49:31",
+          "text": "{\"cardType\":2028,\"params\":{\"toUid\":\"2217561219346\",\"fromUid\":\"2034035755308\",\"sign\":\"58930A6432561EC291FB763670BE1B442077EE6E\",\"ctime\":\"1781236171738\",\"id\":\"1601729538822\"}}"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:49:38",
+          "text": "Yes"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:49:49",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:49:52",
+          "text": "You want this 2+2 seat model, right?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:50:20",
+          "text": "Still looking around"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:51:01",
+          "text": "How is your procurement plan arranged? We will do our best to meet all your needs"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:52:39",
+          "text": "Have you decided what kind of configuration you want for the golf cart? \n How many units do you plan to purchase? \n What is the purpose? \n When do you plan to receive the goods?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:53:15",
+          "text": "After I understand this information, I can provide you with a risk-free solution"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:53:50",
+          "text": "Right now looking for 1 unit"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:54:29",
+          "text": "Okay, friend"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:54:40",
+          "text": "It is for camping business"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:55:00",
+          "text": "The base‑configuration includes the following:\n\n– 48V, 150Ah lead‑acid battery\n– 5kW motor\n– 12‑inch aluminum alloy wheels\n– Roof\n– Front bumper\n– Seats with headrests\n– Flip‑down rear seats (which, when folded, create a storage compartment that can hold ice and function as a cooler)\n– MacPherson independent suspension\n– Turn signals, taillights, and headlights\n– Rearview mirrors\n– Folding windshield\n– Two‑point seat belts\n– Carbon‑fiber steering wheel"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:55:03",
+          "text": "Upgraded configurations include (at an additional cost):\n\nMultifunctional screen (supports CarPlay, Bluetooth, and rearview camera)\nAluminum side steps\nLong-strip audio system\nFront storage basket\nBattery upgrade\nMotor upgrade\nIncreased seating capacity\nRotatable seat armrests\nBody‑mounted LED light strip\nWireless charging\nEPS electric power steering\nUpgrade to a double‑wishbone independent suspension system\nGolf bag holder\nSand bucket\nInsulated cooler box\nCar refrigerator"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:55:34",
+          "text": "This car offers a high degree of customization, so you need to choose the features you like"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:56:42",
+          "text": "Hold on not sure which one I want"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:58:00",
+          "text": "{\"size\":26995681,\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4655493701&parentId=4655493700&secOperateAliId=MC1IDX1W-VkRkA08-urBwyUk5J6GbcEocFA4FS9URVyn8zeZmmXc-ENCwODpvn4Mhm-AOr7&fileAction=download&scene=1\",\"mediaId\":\"\",\"duration\":0,\"width\":0,\"height\":0,\"md5\":\"23eb06b6925a5f8383b9f137b530e2fc\",\"pic\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4655493701&parentId=4655493700&secOperateAliId=MC1IDX1Qz8YfgYTZ8vHJRbF9HEqU6dCdakESJkH1vj8NbQbPWiVNzhdY46b_EfwnM-B8FB1&scene=1\",\"fileId\":\"23eb06b6925a5f8383b9f137b530e2fc.mp4\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 11:58:11",
+          "text": "This is another golf cart customized for a US client of mine"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-12 11:59:50",
+          "text": "Wow very nice"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 12:15:52",
+          "text": "You can choose the configuration, and then I'll calculate the price for you, friend"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507537783274-2217561219346#11011",
+      "contactName": "Angel Bozaromero",
+      "contactAliId": 1507537783274,
+      "contactLevel": "L1",
+      "country": "PE",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1504269042&activeAccountIdEncrypt=MC1IDX1d3vD2l2pcgm6bpLjvOKUQ-0ao8UcrO_66Q69vMl92hBOHyThWnhKqMKni1QXn1dg",
+      "lastActiveTime": "2026-06-12 02:40:17",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 02:40:17",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781203217234
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-12 02:04:02",
+          "text": "This is a inquiry card. Inquiry id is 20495342295; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 02:04:16",
+          "text": "Hola. Este carrito tiene frenos de disco y luz LED. Consultaré el precio con mi gerente."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 02:40:16",
+          "text": "Hola, amigo."
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-4500089436694#11011",
+      "contactName": "Rama Diallo",
+      "contactAliId": 4500089436694,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1768876364&activeAccountIdEncrypt=MC1IDX1wu7vKD_z2KBnWeSAYiVMw0baRcA3tgIvKp_dDYdFN9_rNsf_3mkRzOOtur_aNfC7",
+      "lastActiveTime": "2026-06-11 15:16:29",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 15:16:29",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781162189717
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-11 15:15:12",
+          "text": "This is a inquiry card. Inquiry id is 20491941008; Product id is 1601253710082. Product Name is 2 4 6 Seater Chinese Electric Golf Cart Car for Sale 48V 72V Lithium Custom Comfortable Buggy Electric Golf Carts; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 15:15:28",
+          "text": "Bonjour ! Pourriez-vous me dire où vous souhaitez que nous envoyions ce modèle ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 15:16:29",
+          "text": "Bonjour, ami, veuillez fournir plus d'informations, et je vous recommanderai une configuration adaptée."
+        }
+      ]
+    },
+    {
+      "conversationId": "133257141875-2217561219346#11011",
+      "contactName": "Sami Ali",
+      "contactAliId": 133257141875,
+      "contactLevel": "L4",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=756811236&activeAccountIdEncrypt=MC1IDX1qbYmXvglDCWW5Wuj5_5kYPXxqBqE0JEMjgM2KAARBSfZp3iLJa9W8GDrWLvShSXg",
+      "lastActiveTime": "2026-06-12 09:47:02",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 09:47:02",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781228822505
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-11 13:34:47",
+          "text": "This is a inquiry card. Inquiry id is 20493219449; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-11 13:34:47",
+          "text": "This is a inquiry card. Inquiry id is 20493219449; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 13:35:00",
+          "text": "I'll check the pricing with my senior manager and get back to you soon."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 13:35:39",
+          "text": "Hello, friend"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 13:35:52",
+          "text": "Nice to meet you."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 13:36:26",
+          "text": "May I ask how many you need?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 13:36:49",
+          "text": "Where is it being shipped to?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 17:10:45",
+          "text": "{\"size\":23711917,\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4656531198&parentId=4656531196&secOperateAliId=MC1IDX1ys-NRRTnJ1DXYLQH-hD_YKYpgQCDBAH72yWD8SspCzQZLYKbu4uewabhgpouUR5M&fileAction=download&scene=1\",\"mediaId\":\"\",\"duration\":0,\"width\":0,\"height\":0,\"md5\":\"b8663672a592437353e77a02f1095894\",\"pic\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4656531198&parentId=4656531196&secOperateAliId=MC1IDX1-E1-oUXbl4UJ5pXaHLeCZB2Vw3OwOetdn40IPIMlTnwbp7AAZWGFn1SyCv2hGRE4&scene=1\",\"fileId\":\"b8663672a592437353e77a02f1095894.mp4\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 17:11:02",
+          "text": "Hello friend, this is our factory video. You can take a look to learn more about us."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 09:47:02",
+          "text": "Friend, what do you think of our factory? Are you interested in learning about our products?"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507583364832-2217561219346#11011",
+      "contactName": "SamuelAdom Mensah",
+      "contactAliId": 1507583364832,
+      "contactLevel": "L1",
+      "country": "GH",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1550113606&activeAccountIdEncrypt=MC1IDX1fkW0aFeJbNxN34MSqxGjEtvykhmw7NwGdVuCtQbOz0oPSmikUYVxDV51-_rl_TTD",
+      "lastActiveTime": "2026-06-11 08:36:01",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 08:36:01",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781138161820
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-11 07:58:58",
+          "text": "ok please how much"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 08:35:42",
+          "text": "Friend, you need to choose the car model first \n Then choose the basic configuration, or tell me the use case, and I will recommend a suitable configuration for you. \n The price can only be calculated at the end."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 08:36:01",
+          "text": "Or you can also tell me your budget, and I can recommend car models and configurations for you, my friend"
+        }
+      ]
+    },
+    {
+      "conversationId": "202031488836-2217561219346#11011",
+      "contactName": "Santiago Thomaz",
+      "contactAliId": 202031488836,
+      "contactLevel": "L1",
+      "country": "BR",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=810200533&activeAccountIdEncrypt=MC1IDX1JyQ0FstonnEq7QrNcHZDMuDbaWODDGmGK30VOqK0KvypAuiBh9qEQg-asJzSNjpF",
+      "lastActiveTime": "2026-06-10 06:45:03",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 06:45:03",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1781045103679
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-10 05:17:47",
+          "text": "This is a inquiry card. Inquiry id is 20493051402; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 05:17:59",
+          "text": "Hello! We offer luxury CE-certified carts. Shall we discuss the details?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 06:44:35",
+          "text": "Hello, friend"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 06:44:40",
+          "text": "Nice to meet you"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 06:45:03",
+          "text": "Where would you like to ship it to?"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-2217942420940#11011",
+      "contactName": "Assistant Eva",
+      "contactAliId": 2217942420940,
+      "contactLevel": null,
+      "country": "CN",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=278505947&activeAccountIdEncrypt=MC1IDX1Pb8BS5828FtErbPdCEUw-J8GcW79hFDkWWNnIbfExB_a0eIOU0zX-JXNQhj8zUaH",
+      "lastActiveTime": "2026-06-11 16:52:32",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 16:52:32",
+        "senderAccountType": null,
+        "senderAliId": 2217942420940,
+        "timestamp": 1781167952941
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-11 16:52:32",
+          "text": "{\"cardType\":2086,\"params\":{\"toUid\":\"2217561219346\",\"activeAccountIdEncrypt\":\"MC1IDX1zyyS00wt1dY2BNcXVK-8eTiFk0qeeLUxhBiK250Alv0XYVGE9z-p104InnyO2ieb\",\"sign\":\"AEE9336BD0FE9445D595C2EF5BBBC8208F79546B\",\"buyerName\":\"Kenneth Blorie\",\"scene\":\"abProBuyerOnlineRemind\",\"activeAccountId\":\"995692292\",\"chatToken\":\"YVVGWk5saDVkakpCUW5oTk1uRnRZbWREUTNscWVreHNZMXBvY2tVMVZtWnRSMGxNVEdONVIyUlRNVmwzWlRGb2JqUlJlWEU0U0N0UGNrZG1SRFpwY25aMFdraDRUVE5yTHpkRGFISnVWV3BsVFVaWGVqUmFPVFoyUW5WSmNGSTVWbWhhTldsU2NubHBTVzQ0ZVVsSU5rMXBUVWM1Y1ZkVUt6RXhaRTAwZUdaR1dVRm5Xa1Y2T0hGaFYzQk9TM1p4WTA0NU9GYzJabmg0VG1WQ1NFbFVUbnBJYmt4bk1qWlNSMHhxY1U1YVZFUlNObUo2WkVsRGVIZFdRa0pWTjJRdlpHVkZjVmc0ZVVkU09XSXpkMXBYY0dweGJrVldVVDA5JnZlcnNpb249Mi4wLjA=\",\"fromUid\":\"2217942420940\",\"processId\":\"LNFHV2N1UV2PC19\",\"ctime\":\"1781167952862\",\"loginIdEncrypt\":\"8pctgRBMALMtPiSvnEv1q08G1z47tR5I6wdkfYSa s4=\",\"targetAliId\":\"133661976969\"}}"
+        }
+      ]
+    },
+    {
+      "conversationId": "2034031696932-2217561219346#11011",
+      "contactName": "Kevin Colopy",
+      "contactAliId": 2034031696932,
+      "contactLevel": "L1",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1667240892&activeAccountIdEncrypt=MC1IDX1Yhbs5rypl1tR_0iLFefDXljK6vftL5iu94ZpvnnjJewoLfdDkkBU7LHp3TjlGwMS",
+      "lastActiveTime": "2026-06-09 10:38:28",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 10:38:28",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1780972708453
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:36:23",
+          "text": "What kind of packaging do you use?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:36:36",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:36:39",
+          "text": "Hello"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:36:53",
+          "text": "We use iron frames and wooden boxes"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:37:13",
+          "text": "Do they need to be assembled"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:38:06",
+          "text": "It's very simple; we remove the tires, the roof, and the seats, and almost nothing else"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:38:20",
+          "text": "{\"size\":13032413,\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4642849014&parentId=4642849013&secOperateAliId=MC1IDX183lH9ysFJmOBGb69S0tjIy4AiXLL1B5AMbq-DMy3SXGpHcDhDRIgUUs7GFI8yzaf&fileAction=download&scene=1\",\"mediaId\":\"\",\"duration\":0,\"width\":0,\"height\":0,\"md5\":\"0592f501cf1112c10f1e47b337a4febc\",\"pic\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4642849014&parentId=4642849013&secOperateAliId=MC1IDX1FG8kPf0F-xjdVpxhvNAUGGXMYhY2iJgAIMVaQQ4XXKzumpRE6nRVa27u6tLO0PKz&scene=1\",\"fileId\":\"0592f501cf1112c10f1e47b337a4febc.MP4\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:38:28",
+          "text": "It's like this"
+        }
+      ]
+    },
+    {
+      "conversationId": "133350844225-2217561219346#11011",
+      "contactName": "Reynold Woeke",
+      "contactAliId": 133350844225,
+      "contactLevel": "L2",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=851971614&activeAccountIdEncrypt=MC1IDX14jWF7RM9O8zqBeUJs9oFmGE7RqorvW8nDMP-DHybLDfEBr_TB_bOdrztdKoplnep",
+      "lastActiveTime": "2026-06-09 09:47:08",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 09:47:08",
+        "senderAccountType": null,
+        "senderAliId": 133350844225,
+        "timestamp": 1780969628964
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 00:25:50",
+          "text": "This is a single product card. Product name is 1601729538822"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 00:26:01",
+          "text": "Hello! Our 4-seater cart features luxury seats and multi-battery options. How can I help you today?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 06:01:54",
+          "text": "Hello"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:46:59",
+          "text": "Thank you very much for your interest in our product, friend. My colleague Lena will provide you with product information shortly, please wait a moment"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-4500070745767#11011",
+      "contactName": "Matthew Endenburg",
+      "contactAliId": 4500070745767,
+      "contactLevel": "L2",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1751236086&activeAccountIdEncrypt=MC1IDX1MMtizDcV_JwsaEO1suEFAebuO_za4i5Wa7qc72vlnRrVGwkiOSUMwPiRU8aZ7_JU",
+      "lastActiveTime": "2026-06-09 06:02:28",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 06:02:28",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "senderRole": "seller",
+        "timestamp": 1780956148210
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 04:14:24",
+          "text": "Please provide me with a full product catalogue"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 06:02:28",
+          "text": "Okay, friend, I'll send it to you later"
+        }
+      ]
+    },
+    {
+      "conversationId": "133545282728-2217561219346#11011",
+      "contactName": "Patrick Nuciforo",
+      "contactAliId": 133545282728,
+      "contactLevel": "L2",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=967700457&activeAccountIdEncrypt=MC1IDX1p8dKgskd3ZKmtk_MFZIig-82wfYx_lA4nL5jp-qvIi9vDWkaxzVADyfYFEbQjVgu",
+      "lastActiveTime": "2026-06-08 11:00:45",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-08 11:00:45",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "senderRole": "seller",
+        "timestamp": 1780887645425
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-08 11:00:11",
+          "text": "This is a inquiry card. Inquiry id is 20492883680; Product id is 1601729538822. Product Name is Best Selling Chinese Electric 4-Seater Golf Cart with Luxury Seats Eec Certified for Golf and Resort Use; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:00:23",
+          "text": "Hi! Yes, it’s a 4-seater with luxury seats and EEC certified. Could you let me know where it will be shipped?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:00:26",
+          "text": "Hello, dear"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:00:34",
+          "text": "Nice to meet you"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 11:00:45",
+          "text": "How many vehicles do you need, and where do you need them delivered?"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-4500079138619#11011",
+      "contactName": "Thirston Hightower",
+      "contactAliId": 4500079138619,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1759150669&activeAccountIdEncrypt=MC1IDX1fzTB0ADUp8UKtOZ1nmZDzVS_3YvUZ--vi4PIvGj81Ze5FBP--dLLZ1R8E1G-T6Ts",
+      "lastActiveTime": "2026-06-09 09:45:59",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 09:45:59",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "timestamp": 1780969559415
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:35:16",
+          "text": "This is a inquiry card. Inquiry id is 20492955086; Product id is 1601681634494. Product Name is Kepler 20*10 12 Inch Off-Road Tire Wheel Tubeless Tyre Tire with Rim for Golf Cart ATV UTV Buggy; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:35:29",
+          "text": "Hi! I’ll check the price for 40 sets and get back to you soon."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:35:37",
+          "text": "Hello, friend"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:43:31",
+          "text": "Hello, friend, you only want to buy tires, right?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:43:57",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:44:11",
+          "text": "These are the tire styles we can offer"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:44:19",
+          "text": "You can choose something from inside"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:45:59",
+          "text": "{\"cardType\":12,\"params\":{\"ctime\":\"1780969559373\",\"extensionType\":\"pdf\",\"from\":\"cn1567553962tpkm\",\"id\":\"4642457653\",\"md5\":\"22a93c997591bbd33aab7cac9c90461e\",\"parentId\":\"4642433789\",\"sign\":\"0FB26DBBF4176D57A42869889E24BAF6AA568847\",\"to\":\"us29265977609eoik\",\"type\":\"12\",\"version\":\"1\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4642457653&parentId=4642433789&secOperateAliId=MC1IDX1kXhlpgCh2a9-F8xN-uGv6x6V3IW0ZPc3Q--SS-Jh5xZzItUEu656GD9TD04U9knv&fileAction=officePreview&scene=1\",\"name\":\"轮胎款式.pdf\",\"size\":1991066,\"thumbnailUrl\":\"https://clouddisk.alibaba.com/file/videoThumb.htm?appkey=OneChat&id=4642457653&parentId=4642433789&secOperateAliId=MC1IDX1i4l1sAOcnA5Wh2OCbUFE_AKyxLEGIidUX0qAuM9FicymVGDVbkCqb7c_YLeBwVZH&scene=1\"}}"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217561219346-4500023621008#11011",
+      "contactName": "OMAR LINARES",
+      "contactAliId": 4500023621008,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1702377345&activeAccountIdEncrypt=MC1IDX1jkIlQV9aZstHmUHzgwnVba8uMu05D1fmS9RvJQkM5giPFV5psAq9m_rTWwtAOhVi",
+      "lastActiveTime": "2026-06-09 06:03:26",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 06:03:26",
+        "senderAccountType": null,
+        "senderAliId": 2217561219346,
+        "senderRole": "seller",
+        "timestamp": 1780956206322
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 03:26:11",
+          "text": "I want to ask more price-related questions."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 03:26:16",
+          "text": "I want to ask more payment-related questions."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 03:26:17",
+          "text": "{\"cardType\":2023,\"params\":{\"optimize\":\"0\",\"questions\":\"[{\\\"name\\\":\\\"Which payment method do you accept?\\\",\\\"relatedName\\\":\\\"{\\\\\\\"questionId\\\\\\\":\\\\\\\"300544460549\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"0\\\\\\\"}\\\",\\\"relatedType\\\":\\\"FAQ\\\"},{\\\"name\\\":\\\"What is your payment terms?\\\",\\\"relatedName\\\":\\\"{\\\\\\\"questionId\\\\\\\":\\\\\\\"300544460550\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"0\\\\\\\"}\\\",\\\"relatedType\\\":\\\"FAQ\\\"},{\\\"name\\\":\\\"what is the minimum quantity for mass purchase ?\\\",\\\"relatedName\\\":\\\"{\\\\\\\"questionId\\\\\\\":\\\\\\\"300544460528\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"0\\\\\\\"}\\\",\\\"relatedType\\\":\\\"FAQ\\\"},{\\\"name\\\":\\\"what is the discount ?\\\",\\\"relatedName\\\":\\\"{\\\\\\\"questionId\\\\\\\":\\\\\\\"300544460529\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"0\\\\\\\"}\\\",\\\"relatedType\\\":\\\"FAQ\\\"}]\",\"sign\":\"969302874EBBC963DA6B8458CE9689BCBE9B6292\",\"ctime\":\"1780946777312\",\"from\":\"cn1567553962tpkm\",\"to\":\"us29209956405ycvk\",\"category\":\"payment_faq\"}}"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 03:26:21",
+          "text": "I want to ask more product-related questions."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 03:26:26",
+          "text": "This is a single product card. Product name is 1601729789754"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 03:26:40",
+          "text": "Got it! What would you like to know about this model?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 03:29:56",
+          "text": "I need full spec’s"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 03:30:27",
+          "text": "{\"isOriginal\":1,\"size\":2473101,\"width\":1080,\"suffix\":\"png\",\"url\":\"https://pre-clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4645183194&parentId=4645183193&secOperateAliId=MC1IDX1N2VjtcpWqaQXU_vIXXnAYQNWB0yQv9o9WwW8ZE0yU9G7RdcVs22QdaEQHmKgcfXF&fileAction=imagePreview\",\"height\":1080,\"md5\":\"1c6bf31c92367a3e12cdba83d4e88c0a\",\"fileId\":\"1c6bf31c92367a3e12cdba83d4e88c0a.png\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 03:30:27",
+          "text": "This model comes with a lithium battery (48V-72V), a 4-7.5kW motor, and can reach speeds of 40-50km/h. You’ll see the digital display and carbon-fiber style dash in the photo. It runs about 90km per charge, which takes 5-7 hours. How many units are you thinking of?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 03:33:57",
+          "text": "1 unit"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 03:34:46",
+          "text": "Got it! I'll check the price for 1 unit and get back to you shortly."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 06:03:25",
+          "text": "Due to the time difference, I will contact you later, friend"
+        }
+      ]
+    },
+    {
+      "conversationId": "133649234601-2500001422788#11011",
+      "contactName": "Antony  Farinas",
+      "contactAliId": 133649234601,
+      "contactLevel": "L2",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=992191545&activeAccountIdEncrypt=MC1IDX1mLqyCpwMXj467Jcq3XOgBrxsviJsQdNqp8H6e_k6V0L-s52zTYdRwhlI2O-YO2Xa",
+      "lastActiveTime": "2026-06-13 11:16:03",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-13 11:16:03",
+        "senderAccountType": null,
+        "senderAliId": 2500001422788,
+        "senderRole": "seller",
+        "timestamp": 1781320563351
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-13 02:15:12",
+          "text": "Lithium Battery, 7.5KW Motor, Disc Brakes F&R."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-13 02:16:39",
+          "text": "Audio System, Street Legal & VIN number."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 08:27:07",
+          "text": "Hello, Antony, we can meet all of these requirements./:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 08:30:23",
+          "text": "{\"height\":587,\"isOriginal\":0,\"width\":1280,\"size\":818285,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4665624037&parentId=4665624036&secOperateAliId=MC1IDX1d8KOWVlXzCeMxNYl8icF01h93FQbiUa8h9qb3gOEeXUi-u5LphB-uev5AvUSFbSH&fileAction=imagePreview&scene=1\",\"md5\":\"1d578e34930a682daf5ae9becbaadb78\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 08:30:43",
+          "text": "This is our Bluetooth speaker/:fighting."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 08:39:27",
+          "text": "{\"height\":319,\"isOriginal\":0,\"width\":325,\"size\":95566,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4661607289&parentId=4665624036&secOperateAliId=MC1IDX1-qeYJIZqQ7HaiKE01LAKCHWJpzGFB7fC7eNL2ZZN2QZhPe-IhFdlnvdNe0eYDw4m&fileAction=imagePreview&scene=1\",\"md5\":\"5831bf92597df7a5d178031c6563b197\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 08:39:46",
+          "text": "This is our speaker/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 08:42:41",
+          "text": "We have Dot, CE, GCC, and EEC certifications/:laugh."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 10:42:42",
+          "text": "After you purchase a golf cart, the vehicle identification number can only be generated after it has been produced/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 11:15:14",
+          "text": "{\"params\":{\"parentId\":\"4665624036\",\"extensionType\":\"pdf\",\"id\":\"4662119508\",\"md5\":\"D74C156AC8D01F02AD3DB1871F0B96CC\",\"ctime\":\"1781320514536\",\"size\":\"202379\",\"thumbnailUrl\":\"https:\\/\\/clouddisk.alibaba.com\\/file\\/videoThumb.htm?appkey=OneChat&id=4662119508&parentId=4665624036&secOperateAliId=MC1IDX1pz6p9-eOAtdVafdu5xo-RkKMJ_aV8VsX71_5GjKi77G2w3w2veQcgq47nPuHQ2ph&scene=1\",\"version\":\"1\",\"downloadUrl\":\"\",\"name\":\"Legally On The Road in the US - Dot.pdf\",\"url\":\"https:\\/\\/clouddisk.alibaba.com\\/file\\/redirectFileUrl.htm?appkey=OneChat&id=4662119508&parentId=4665624036&secOperateAliId=MC1IDX1OI1k-GdKmDdSSV7TbQs_ADC4T9onhBRe3iUmVnsAagP-42F17Wz7FsBHK3Th7xkv&fileAction=officePreview&scene=1\"},\"cardType\":12}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-13 11:16:03",
+          "text": "This is the DOT document for legal road use in the United States/:smile."
+        }
+      ]
+    },
+    {
+      "conversationId": "2500001422788-4500088457920#11011",
+      "contactName": "Shelton Byrd",
+      "contactAliId": 4500088457920,
+      "contactLevel": null,
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1767512709&activeAccountIdEncrypt=MC1IDX1ZJamvRBu7HGL-f9K2hODXpvZFxUxtQi0qwjsS02puel6DKK_Jr887V_KUrlTwmQF",
+      "lastActiveTime": "2026-06-11 09:12:35",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 09:12:35",
+        "senderAccountType": null,
+        "senderAliId": 2500001422788,
+        "senderRole": "seller",
+        "timestamp": 1781140355367
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-08 08:11:08",
+          "text": "This is a inquiry card. Inquiry id is 20491663518; Product id is 1601725968329. Product Name is Factory Direct Golf Cart Private Mold Exclusive Design 2026 Hot Product Lithium Battery Energy Saving Custom Package; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 08:11:20",
+          "text": "Hi! It's electric, with lithium/lead-acid battery options. We're a verified manufacturer since 2022 with CE/DOT certs. I'll check the best shipping rate for you!"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-08 08:12:03",
+          "text": "Ok that would be great"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 08:12:12",
+          "text": "To help me get an accurate quote, what's your email?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-08 08:12:37",
+          "text": "byrdshelton7@gmail.com"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 08:12:46",
+          "text": "Thanks! I'll email the full quote and shipping details soon."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-08 08:15:25",
+          "text": "Ok sounds good"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 08:15:35",
+          "text": "Great! I'll get back to you with the quote soon."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:19:37",
+          "text": "Hello Shelton, could you please let me know your required specifications?/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:23:57",
+          "text": "We offer four Incoterms for delivery:\n1. EXW (Ex Works): Delivery at factory\n2. FOB (Free On Board): Delivery at domestic port\n3. CIF (Cost, Insurance, and Freight): Delivery at US port\n4. DDP (Delivered Duty Paid): Delivery to destination"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:24:50",
+          "text": "Our golf carts are exclusively electric, though models D and E are also available with gas engines."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:25:52",
+          "text": "{\"height\":800,\"isOriginal\":0,\"width\":800,\"size\":72969,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4640845011&parentId=4640845010&secOperateAliId=MC1IDX1T56aY1qfAM6eFRuDvb4j6ytX5D_jHIgeiKDRbDV8dnlr0-YvtqoTnrNQ6Wy-7F7K&fileAction=imagePreview&scene=1\",\"md5\":\"8fcfddcca2cf72935808192a57af764b\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:26:03",
+          "text": "This is Model D."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:26:39",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:26:55",
+          "text": "{\"height\":800,\"isOriginal\":0,\"width\":800,\"size\":1298263,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4642298568&parentId=4640845010&secOperateAliId=MC1IDX1PviAMn_tgLmQrrAZAd7DG12ThGdkJKNoWs9uUvOZXZhpsvzsztrsblL9QZAT6tdg&fileAction=imagePreview&scene=1\",\"md5\":\"a4b12e9040b48a72b83474c0560cf0e5\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:27:04",
+          "text": "This is Model E."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 17:29:03",
+          "text": "We hold CE, COC, and DOT certifications."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:32:03",
+          "text": "Hello, how can I help you today?/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 09:11:36",
+          "text": "Hello Shelton, could you please tell me the configuration you want?/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 09:12:35",
+          "text": "We have 4/5/7.5KW motor options./:smile."
+        }
+      ]
+    },
+    {
+      "conversationId": "133350844225-2500001422788#11011",
+      "contactName": "Reynold Woeke",
+      "contactAliId": 133350844225,
+      "contactLevel": "L2",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=851971614&activeAccountIdEncrypt=MC1IDX1zVhnWyy-iiqJz3snw3OA-izUzQQCZMirof9PdmpCfXHu-I2KsovWT9QEOpEjOimj",
+      "lastActiveTime": "2026-06-09 14:16:56",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 14:16:56",
+        "senderAccountType": null,
+        "senderAliId": 133350844225,
+        "senderRole": "buyer",
+        "timestamp": 1780985816608
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-09 00:26:13",
+          "text": "This is a single product card. Product name is 1601725968329"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 00:26:23",
+          "text": "Hello! This golf cart features a custom design."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:54:32",
+          "text": "Hi are you well"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:54:42",
+          "text": "I'm doing well, thank you! How can I help you?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:55:26",
+          "text": "/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:55:53",
+          "text": "What kind of golf cart do you want?/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:56:09",
+          "text": "{\"height\":1024,\"isOriginal\":0,\"width\":1024,\"size\":904058,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4645931367&parentId=4645931366&secOperateAliId=MC1IDX1_24AJPLmvl0QuUqH_gxXTCDTlL5EnOr_UL8dUCIZukRJtYcRYXU1y9J8NijLKYEI&fileAction=imagePreview&scene=1\",\"md5\":\"10f4c085ec32e4d9fae07bd21451e1c8\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:56:09",
+          "text": "{\"height\":1024,\"isOriginal\":0,\"width\":1024,\"size\":1040278,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4642505804&parentId=4645931366&secOperateAliId=MC1IDX11rKdXNqeVPwz-VDyd8s3xBrrtbNJaqOzyCsWzGiG-6orQ2YMojh967EXEOgbcIjk&fileAction=imagePreview&scene=1\",\"md5\":\"070beb58d4673668bd3dc3c54c57052f\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:56:10",
+          "text": "{\"height\":1024,\"isOriginal\":0,\"width\":1024,\"size\":1244717,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4642513755&parentId=4645931366&secOperateAliId=MC1IDX1xbtRhQqMEnRb4Bs-Qxc5Zgr01AYmTV0PdxJDPJV_O7eWhMG5bjQNDVkUjGiTVJ1T&fileAction=imagePreview&scene=1\",\"md5\":\"db8cbce860ba0721f4ca145114671b24\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:56:29",
+          "text": "This is our best-selling product, Model J/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:56:37",
+          "text": "Do you like it?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:56:42",
+          "text": "/:covermouth."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:57:02",
+          "text": "Price"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:57:12",
+          "text": "Full container lithuim battery 105 Ah"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 09:57:40",
+          "text": "How many you koad in container"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:00:07",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:05:19",
+          "text": "This depends on the number of seats you need, as well as the motor and battery capacity \n How many seats do you need? \n We have motors with 4KW/5KW/7.5KW power. What power level do you need? \n We have batteries with capacities of 48V100Ah, 48V150Ah, 72V100Ah, 72V150Ah, and 72V200Ah. What size do you need?/:smile."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:13:44",
+          "text": "5kw"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:13:56",
+          "text": "48vokt 100ah"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:14:37",
+          "text": "How many vehicles are needed?/:smile."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:14:52",
+          "text": "Full container"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:15:03",
+          "text": "40ft Hq"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:15:13",
+          "text": "Where is your factory"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:15:17",
+          "text": "How many seats?/:smile."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:15:36",
+          "text": "2 eeats"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:16:15",
+          "text": "With bag carrier score card holder and sound"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:18:04",
+          "text": "Tianqu Industrial Park, Decheng District, Dezhou City, Shandong Province"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:18:47",
+          "text": "Do you need 12/ 14inch tires?/:smile."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:22:10",
+          "text": "14"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:22:14",
+          "text": "And we can visit"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:22:24",
+          "text": "Need highway terrain tyres"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:24:04",
+          "text": "Of course, my friend, can you tell me when it will be so we can prepare in advance for your arrival?/:smile."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:26:22",
+          "text": "{\"height\":806,\"isOriginal\":0,\"width\":995,\"size\":927394,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4644322237&parentId=4645931366&secOperateAliId=MC1IDX140vi1wWO9H_zCQLGfPmsW9bPTPzndQJPRmI1nbBiil9zyDmiC7tEmmsKUmrSOSfS&fileAction=imagePreview&scene=1\",\"md5\":\"7dd8409b8c24e926c3208d9c4c24a41f\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:26:46",
+          "text": "My friend, are these the tires you want?/:smile."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:32:02",
+          "text": "Black rims"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:32:11",
+          "text": "Tyres option1"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:32:26",
+          "text": "Price of the carts and loading capacity"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:32:42",
+          "text": "All i really need now"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 14:16:16",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 14:16:16",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 14:16:16",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 14:16:16",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 14:16:16",
+          "text": ""
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 14:16:18",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "conversationId": "2500000371894-4500019462871#11011",
+      "contactName": "Dane Wells",
+      "contactAliId": 4500019462871,
+      "contactLevel": "L3",
+      "country": "NZ",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1698573756&activeAccountIdEncrypt=MC1IDX1y2coupbABk_M5axP9Vuty7403F2LQ-nRSCict_lAQ3R4v0hjR9KH3w5no0sTJBDP",
+      "lastActiveTime": "2026-06-12 22:35:51",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:35:51",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274951707
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:35:39",
+          "text": "hi Dane"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:35:43",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:35:51",
+          "text": "do you still need golf cart ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "2012004108957-2500000371894#11011",
+      "contactName": "Ivy Nato",
+      "contactAliId": 2012004108957,
+      "contactLevel": "L3",
+      "country": "PH",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=7052877891&activeAccountIdEncrypt=MC1IDX1NSxS3wXWZTE9GA37iE75ybSiWZNv_6iI2hurzKHHy0UnXVsSDrIF4JCLRDp1-V3I",
+      "lastActiveTime": "2026-06-12 22:35:31",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:35:31",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274931601
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:35:09",
+          "text": "hi Ivy"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:35:12",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:35:31",
+          "text": "do you still need golf cart ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "17303182785-2500000371894#11011",
+      "contactName": "Michael Laurin",
+      "contactAliId": 17303182785,
+      "contactLevel": "L3",
+      "country": "CA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=123313601&activeAccountIdEncrypt=MC1IDX1fXQpFa2sZo-b8jtcnUEtGSe3ps2xnOe6h-e4M-khfMANykKfTV6emXGdtqorPEAZ",
+      "lastActiveTime": "2026-06-12 22:34:57",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:34:57",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274897614
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:34:41",
+          "text": "hi Michael"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:34:45",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:34:57",
+          "text": "do you still need the golf cart ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "17296331296-2500000371894#11011",
+      "contactName": "Carlton Wright",
+      "contactAliId": 17296331296,
+      "contactLevel": "L3",
+      "country": "JM",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=116462112&activeAccountIdEncrypt=MC1IDX1Ih6M_aneYXoFzMYzhAmdhu2DX4BstVj2Ur3Jjx1F6rTHF3EHEvRHGDqKhuOQhQZp",
+      "lastActiveTime": "2026-06-12 22:32:48",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:32:48",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274768761
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:32:37",
+          "text": "hi Carlton"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:32:41",
+          "text": "how are you"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:32:48",
+          "text": "do you still need golf cart ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507545171538-2500000371894#11011",
+      "contactName": "Augustina Obiri",
+      "contactAliId": 1507545171538,
+      "contactLevel": "L3",
+      "country": "GH",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1511563703&activeAccountIdEncrypt=MC1IDX1TWvv0_yIK674XZJbYPHlm8QJ2YWN9i-pEZl-toGi402txmxlLV63VcU64uweaHn-",
+      "lastActiveTime": "2026-06-12 22:29:20",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:29:20",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274560971
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:29:07",
+          "text": "hi Augustina"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:29:11",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:29:20",
+          "text": "do you still need golf cart?"
+        }
+      ]
+    },
+    {
+      "conversationId": "17300196684-2500000371894#11011",
+      "contactName": "kim caron",
+      "contactAliId": 17300196684,
+      "contactLevel": "L4",
+      "country": "CA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=120327500&activeAccountIdEncrypt=MC1IDX1ZEbyDlXhk8iRcgyujgs01PTOUEgE1v7-8rgKwoYzDtT0gptVF2TGd-tRtnoQVdG9",
+      "lastActiveTime": "2026-06-12 22:33:31",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:33:31",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274811850
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:33:16",
+          "text": "hi Kim"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:33:20",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:33:31",
+          "text": "Do you still meed golf cart ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "133155528776-2500000371894#11011",
+      "contactName": "Juan Carlos Lopez",
+      "contactAliId": 133155528776,
+      "contactLevel": "L2",
+      "country": "ES",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=142981277&activeAccountIdEncrypt=MC1IDX1WS2pH8fR-sscLzjnYgwTuh1Dmuex1dObHDq4WfzSW8vDGWOCjUZlQy1iV1i1z5KT",
+      "lastActiveTime": "2026-06-12 22:28:53",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 22:28:53",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781274533752
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:28:34",
+          "text": "hi Juan"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:28:40",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 22:28:53",
+          "text": "do you still need golf cart ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "17305368200-2500000371894#11011",
+      "contactName": "dodik apriyanto",
+      "contactAliId": 17305368200,
+      "contactLevel": "L3",
+      "country": "ID",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=125499016&activeAccountIdEncrypt=MC1IDX1Skw1Rmpi7ruV7yhhY4qo9yctGGtAYpMnKGcwn4-WONeB_1WiIHu-FhGFNGgqD7yb",
+      "lastActiveTime": "2026-06-12 16:23:34",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-12 16:23:34",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "senderRole": "seller",
+        "timestamp": 1781252614760
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:22:19",
+          "text": "hi Dodik"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:22:25",
+          "text": "how are  you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:22:34",
+          "text": "Do you need golf cart now ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:23:34",
+          "text": "{\"height\":768,\"isOriginal\":0,\"width\":616,\"size\":234715,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4664240644&parentId=4664252281&secOperateAliId=MC1IDX1UM3-ZcqmgP6WyFpy8Ku2U3d_AuoNfaaH9EjjmW3A-GVCqMYYyNGEO65pfLZdr_tc&fileAction=imagePreview&scene=1\",\"md5\":\"e7ffe22a747ef6c1122242eca9e983b9\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:23:34",
+          "text": "{\"height\":571,\"isOriginal\":0,\"width\":599,\"size\":289818,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4656701357&parentId=4664252281&secOperateAliId=MC1IDX1yMEEF9MKcGmQ9mWvaN2uPYDUAomlxGdBIvsocHlDGIxGRRER4RNJDdgmCEYL7Huk&fileAction=imagePreview&scene=1\",\"md5\":\"8c35171dd802f36a5d3b9ee8139fbf16\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:23:34",
+          "text": "{\"height\":1000,\"isOriginal\":0,\"width\":1000,\"size\":1357460,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4664252282&parentId=4664252281&secOperateAliId=MC1IDX17BEFTFshrf1M7c-kcvAwY-MJgzZDtZL2O2UkL2QRH6ev0vLW2b9iIgE-C8W1D1KG&fileAction=imagePreview&scene=1\",\"md5\":\"113cc84c1ce013d885db25886990b147\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-12 16:23:34",
+          "text": "{\"height\":800,\"isOriginal\":0,\"width\":800,\"size\":1025180,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4664256218&parentId=4664252281&secOperateAliId=MC1IDX1zd1MGoxY4Hy2f8BOmhArvqVrRich4cL-5FCvDeSDanKjo9iVeER49kA7CSBW4P-u&fileAction=imagePreview&scene=1\",\"md5\":\"b4bcf00e095b2f5fb27049db1c9dd646\"}"
+        }
+      ]
+    },
+    {
+      "conversationId": "2500000371894-2500001232603#11011",
+      "contactName": "Mello Medical",
+      "contactAliId": 2500001232603,
+      "contactLevel": "L3",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=285950633&activeAccountIdEncrypt=MC1IDX1Pa3fQx0w6HOfJ97YsmcHilU_ZwOTlWD0bjLAZ90zkkW6fhh6R_5miWe53sUTQF6X",
+      "lastActiveTime": "2026-06-11 08:39:40",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-11 08:39:40",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "timestamp": 1781138380530
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:15:24",
+          "text": "This is a RFQ Quotation card; Quotation id is 1266354779; Product name is Kepler  New Design Wholesale Customize 2 Passenger Seaters Electric Golf Carts Car for Taking Goods;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:15:25",
+          "text": "hi Mello,\n\nhow are you? \n\nWe have different models for golf carts and mainly produce customized products . \n\nDo you need 2 seater golf carts? please tell me what you will use it for ? \n\nI will recommend suitable configuration."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:19:07",
+          "text": "{\"height\":768,\"isOriginal\":0,\"width\":616,\"size\":234715,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4647905598&parentId=4647905597&secOperateAliId=MC1IDX1xXoMOSFeSJFBl4lNRC4wSAqstsqr9ioCaaHK_126o6eKuG491g_vLRy5pn9R7V6c&fileAction=imagePreview&scene=1\",\"md5\":\"e7ffe22a747ef6c1122242eca9e983b9\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:19:49",
+          "text": "{\"height\":800,\"isOriginal\":0,\"width\":800,\"size\":764409,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4651319222&parentId=4647905597&secOperateAliId=MC1IDX19b3sTeSIHWAYD1HE4qaO6nAZUrH4DATINMbxGtpf3VfXn32pjjfHdI7Qvl1jyIyd&fileAction=imagePreview&scene=1\",\"md5\":\"d56d80b320d1a2a15731feef02fe56d3\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:19:49",
+          "text": "{\"height\":1000,\"isOriginal\":0,\"width\":1000,\"size\":1357460,\"suffix\":\"jpg\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4647905809&parentId=4647905597&secOperateAliId=MC1IDX16NkNzEXbImQa4KQ6Z4J4a5pRywk2hfdB7nQWl7LzBh8GM86pId9LCR6QAhgg1pwJ&fileAction=imagePreview&scene=1\",\"md5\":\"113cc84c1ce013d885db25886990b147\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:20:19",
+          "text": "hi Mello , do you want 2 seater golf cart like them ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-11 08:39:40",
+          "text": "for the motor , there're 4kw,5kw,7.5kw . which one do you need ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "2500000371894-4500042223899#11011",
+      "contactName": "JoseSerafin Sanchez",
+      "contactAliId": 4500042223899,
+      "contactLevel": "L3",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1722992809&activeAccountIdEncrypt=MC1IDX1bavv2lIMW2HEKXIOgjWsKYAHf0EP1odNe50lKX2f49MxoZ42XWEtv3xXGmCabM1w",
+      "lastActiveTime": "2026-06-10 14:28:12",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 14:28:12",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "timestamp": 1781072892059
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:28:10",
+          "text": "This is a RFQ Quotation card; Quotation id is 1266354920; Product name is Kepler Customized Color Cost-Effective Electric Golf Cart with 2 Seats Direct Shipment  for Farm and Course;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 14:28:12",
+          "text": "hiJose,\n\nhow are you ? \n\nWe mainly produce customized golf cart .\n\nYou need cargo box ,right ?\n\nI need to confirm detailed specification ,then confirm the price .  Like the motor , battery, the size of box etc .\n\nPlease send your requirements to me ."
+        }
+      ]
+    },
+    {
+      "conversationId": "133350844225-2500000371894#11011",
+      "contactName": "Reynold Woeke",
+      "contactAliId": 133350844225,
+      "contactLevel": "L2",
+      "country": "ZA",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=851971614&activeAccountIdEncrypt=MC1IDX16hYeIY1JMFvj38V7iQYqwpzJ_HVfy9J7gDWsmESq34y3zpgt3SO2I_TvToG-K3u0",
+      "lastActiveTime": "2026-06-09 14:16:56",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-09 14:16:56",
+        "senderAccountType": null,
+        "senderAliId": 133350844225,
+        "timestamp": 1780985816667
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:47:41",
+          "text": "hi Reynold"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:47:46",
+          "text": "how are you ?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 09:48:11",
+          "text": "Do you still need the golf cart ?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-09 10:33:31",
+          "text": "Yes and better price"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-09 10:34:06",
+          "text": "ok , I will apply batter price ."
+        }
+      ]
+    },
+    {
+      "conversationId": "2034037074956-2500000371894#11011",
+      "contactName": "Juanpablo Rodriguez",
+      "contactAliId": 2034037074956,
+      "contactLevel": "L3",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1672736120&activeAccountIdEncrypt=MC1IDX1TBFTStQ9zFUbuhsZ7PoCZBWdO8cZQ9hp9dvvVPWFgQuyWLmTmD59aO2IbnwjwCBr",
+      "lastActiveTime": "2026-06-10 11:16:12",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 11:16:12",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "timestamp": 1781061372955
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-10 09:14:49",
+          "text": "hi Juanpablo, total price is about 11000 usd to your address ."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 09:15:49",
+          "text": "Because shipping costs and tariffs are high right now."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:12:16",
+          "text": "how do you think of that ?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 11:14:20",
+          "text": "Thank you for your time  change my mind! Thank you again for your time!"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 11:15:09",
+          "text": "ok"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 11:16:12",
+          "text": "If the tariffs decrease, I will contact you again. Okay?"
+        }
+      ]
+    },
+    {
+      "conversationId": "133211543909-2500000371894#11011",
+      "contactName": "Corley Steward",
+      "contactAliId": 133211543909,
+      "contactLevel": "L1",
+      "country": "US",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=712633889&activeAccountIdEncrypt=MC1IDX1lXP70DjwLttBxmyRN_IQZzVT9SXKT0jPAArOOoaf_rhPsTjMsqOHU7b0nzAwhv6t",
+      "lastActiveTime": "2026-06-10 10:07:05",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": true,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-10 10:07:05",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "timestamp": 1781057225276
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-10 09:51:24",
+          "text": "This is a inquiry card. Inquiry id is 20496472420; Product id is 1601726606047. Product Name is Kepler Adult Electric Campus Shuttle 6-Passenger Capacity Rear Axle Drive 4-Wheel Design for Resort Shuttle; The note of the buyer's inquiry is undefined;"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 09:51:38",
+          "text": "I'll check the pricing with my manager. Could you let me know the delivery location?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 09:51:50",
+          "text": "hi Corley"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 09:52:11",
+          "text": "Buford GA USA 30518"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 09:52:41",
+          "text": "{\"height\":1080,\"isOriginal\":0,\"width\":1080,\"size\":1561039,\"suffix\":\"png\",\"url\":\"https://clouddisk.alibaba.com/file/redirectFileUrl.htm?appkey=OneChat&id=4646645194&parentId=4646645193&secOperateAliId=MC1IDX1ShdHW-ps8r7iA-POBuncMm_Trmnv-VELAz_oNMQV48N734av3HD9RZZ7jgIJ5Mr2&fileAction=imagePreview&scene=1\",\"md5\":\"abf6996b18432ea2789b5b3d97703af8\"}"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 09:52:49",
+          "text": "you like this model ?"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 09:53:37",
+          "text": "Mostly"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:00:54",
+          "text": "total price is about 11000usd ."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 10:03:46",
+          "text": "Does that include shipping? What’s the time frame for delivery?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:04:09",
+          "text": "about 20days, we can finish it ."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:04:50",
+          "text": "yes , in June, including the shipping fee ."
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-10 10:04:54",
+          "text": "20 days until you can ship? Then how long till it is delivered?"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:05:23",
+          "text": "we need 20days to produce . 35-40 day for shiping ."
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-10 10:07:05",
+          "text": "4seats facing forward , 48v 150ah lithium battery . 5kw motor  , ok ?"
+        }
+      ]
+    },
+    {
+      "conversationId": "2217942420940-2500000371894#11011",
+      "contactName": "Assistant Eva",
+      "contactAliId": 2217942420940,
+      "contactLevel": null,
+      "country": "CN",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=278505947&activeAccountIdEncrypt=MC1IDX1QoibjpsGTOAxpyXj11URc55ZWJGo6_hOtQvk0d1gAOVB62zYOz5qBn35zoMdm5GB",
+      "lastActiveTime": "2026-06-08 19:15:44",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-08 19:15:44",
+        "senderAccountType": null,
+        "senderAliId": 2217942420940,
+        "timestamp": 1780917344344
+      },
+      "messages": [
+        {
+          "from": "buyer",
+          "time": "2026-06-08 16:41:47",
+          "text": "{\"cardType\":2086,\"params\":{\"toUid\":\"2500000371894\",\"activeAccountIdEncrypt\":\"MC1IDX1YB8OFx7FWuDdkNSbMs-x44xWcEWEkybvfHf722XIJ3fdpUmvWDinnr570ZrMFbq3\",\"sign\":\"9CA4C82119F4ECA75C773DF983CD7A7E6DD91A91\",\"buyerName\":\"Mihaela Ciobanu\",\"scene\":\"abProBuyerOnlineRemind\",\"activeAccountId\":\"1506434473\",\"chatToken\":\"YVVGWk5saDVkakpCUW5oTk1uRnRZbWREUTNscWVreHNZMXBvY2tVMVZtWnRSMGxNVEdONVIyUlRNVmwzWlRGb2JqUlJlWEU0U0N0UGNrZG1SRFpwY25aMFdraDRUVE5yTHpkRGFISnVWV3BsVFVaWGVqUmFPVFoyUW5WSmNGSTVWbWhhTldsU2NubHBTV3NyUnpobVRURjZOV2xCVjJkbVVrbHVaa0pRUmt0WVdYaFNhR1JYV0ZJMk0wWk5PRkpVVG5GcFIwSllXSFl4ZVZSRE56aHBOV3d5UXpkeWEyeEliR3B4YXpOblZWTnVlRkI0YldzMVNEZDFSRXMzVW5GVU9FUjFLMVZXVUVWaGNuUlJUUzlRWXpCUmEzQkNaejA5JnZlcnNpb249Mi4wLjA=\",\"fromUid\":\"2217942420940\",\"processId\":\"FV0J11N1COUQC1H\",\"ctime\":\"1780908107715\",\"loginIdEncrypt\":\"8pctgRBMALPiTqkEZD4femv8v1nIwXRDe9pdsH62jko=\",\"targetAliId\":\"1507539908693\"}}"
+        },
+        {
+          "from": "buyer",
+          "time": "2026-06-08 19:15:44",
+          "text": "{\"cardType\":2086,\"params\":{\"toUid\":\"2500000371894\",\"activeAccountIdEncrypt\":\"MC1IDX1lkzeaGuI4-cVkG1i8M-CD8iuLzqYTSG1q6rQivcNJYe7Ca4ZAoscaGB1hYCOsppf\",\"sign\":\"BE20B90CE1D67E87AB97FE5019F191DD05AE1A62\",\"buyerName\":\"mati Batsinilas\",\"scene\":\"abProBuyerOnlineRemind\",\"activeAccountId\":\"190245520\",\"chatToken\":\"YVVGWk5saDVkakpCUW5oTk1uRnRZbWREUTNscWVreHNZMXBvY2tVMVZtWnRSMGxNVEdONVIyUlRNVmwzWlRGb2JqUlJlWEU0U0N0UGNrZG1SRFpwY25aMFdraDRUVE5yTHpkRGFISnVWV3BsVFVaWGVqUmFPVFoyUW5WSmNGSTVWbWhhTldsU2NubHBTVzFKWldwUFVtNVhlV2xrY1dKQlNYaEpURVZvWlZvNVJGb3pSVXhSTml0dGJ6Qm9jME5JZVhSd1REazRlVGczYmpZNGRpdEtiREJ0TlhReVQzRlhVMHBCUmxGRVdTczVZVkpuTDBaMVFXaDFVSGREV2t0T1IwODVjRVJrZFZONWRWazNhbXd3YURoV2NVMW9aejA5JnZlcnNpb249Mi4wLjA=\",\"fromUid\":\"2217942420940\",\"processId\":\"SVFP31N163ETC11\",\"ctime\":\"1780917344246\",\"loginIdEncrypt\":\"8pctgRBMALPLUNSj2xGOSQFRFNDBKXe6\",\"targetAliId\":\"133188360048\"}}"
+        }
+      ]
+    },
+    {
+      "conversationId": "1507539908693-2500000371894#11011",
+      "contactName": "Mihaela Ciobanu",
+      "contactAliId": 1507539908693,
+      "contactLevel": "L3",
+      "country": "RO",
+      "chatLink": "https://onetalk.alibaba.com/message/weblitePWA.htm?activeAccountId=1506434473&activeAccountIdEncrypt=MC1IDX1uWCbcPFH9q8c5xVXN_sLYkx1b5f8puuy6diEN4mu4HeW-zJyhR__L0HNp0Zo9Sf0",
+      "lastActiveTime": "2026-06-08 16:42:45",
+      "unreadMessageCount": 0,
+      "hasUnread": false,
+      "latestMessage": {
+        "content": null,
+        "isRead": false,
+        "isSystemMessage": null,
+        "messageId": null,
+        "messageType": null,
+        "quoteMessage": null,
+        "sendTime": "2026-06-08 16:42:45",
+        "senderAccountType": null,
+        "senderAliId": 2500000371894,
+        "timestamp": 1780908165484
+      },
+      "messages": [
+        {
+          "from": "seller",
+          "time": "2026-06-08 16:42:19",
+          "text": "Hi Mihaela"
+        },
+        {
+          "from": "seller",
+          "time": "2026-06-08 16:42:45",
+          "text": "I have sent quotation to you. hope to get your feedback ."
+        }
+      ]
+    }
+  ]
+}
